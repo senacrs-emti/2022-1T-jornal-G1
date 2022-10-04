@@ -1,0 +1,21 @@
+assets // todos os arquivos de layout, visual, js
+- css // todos os arquivos de css
+-- index.html // arquivo vazio para não localizar arquivos
+-- style.css // arquivo do template
+- img // fica todos arquivos de imagens do desing/template do site
+-- index.html // arquivo vazio para não localizar arquivos
+- js // arquivos de javascript
+-- index.html // arquivo vazio para não localizar arquivos
+-- script.js // arquivo de javascript
+contents // todos or arquivos de imagens, videos, audios dos conteudos
+- index.html // arquivo vazio para não localizar arquivos
+includes // arquivos de repetição
+- index.html // arquivo vazio para não localizar arquivos
+- _header.php // codigo do head ,header
+- _aside.php // codigo do aside
+- _footer.php // codigo do footer
+editorial.php // 
+index.php //
+noticia.php //
+organizacao.txt // descrição da organização
+template.html // template base
