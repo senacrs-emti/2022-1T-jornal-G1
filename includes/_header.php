@@ -14,11 +14,17 @@
 
   <body>
     <header>
+      <img src="." alt="logo">
         <nav>
-            <ul>
-                <li><a href="./index.php">Index</a></li>
-                <li><a href="./noticia.php">Noticia</a></li>
-                <li><a href="./editoria.php">Editoria</a></li>
-            </ul>
+          <div>
+              <ul>
+                  <li><a href="./index.php">Menu</a></li>
+                  <li><a href="./noticia.php">Noticia</a></li>
+                  <li><a href="./editoria.php">Editoria</a></li>
+              </ul>
+              <div>
+                  <input type="search" name="pesquisa" id="pesquisa" placeholder="buscar">
+              </div>
+            </div>
         </nav>
     </header>
