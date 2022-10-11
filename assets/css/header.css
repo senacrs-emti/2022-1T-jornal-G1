@@ -1,0 +1,29 @@
+nav{
+    background-color: #B31254;
+    height: auto;
+    display: block;
+    float: left;
+
+}
+
+nav ul li{
+    font-size: large;
+    list-style-type: none;
+    float: left;
+    margin-right: 10px;
+    
+}
+
+#logoimg{
+    width: 110px;
+    height: 100px;
+    padding-left: 15px;
+}
+
+.logoc{
+    border-radius: 100px;
+    width: 120px;
+    height: 120px;
+    background-color: blueviolet;
+    margin-left: 45%;
+}
