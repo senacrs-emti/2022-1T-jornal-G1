@@ -1,31 +1,23 @@
-<footer class="row">
-    <section class="col-lg-8 col-12">
-    <ul>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-        <li>
-        <img src="https://i.pinimg.com/736x/95/7c/4d/957c4dd9aa815cc1de2040cc1259589f--shock-and-awe-whats-the.jpg">
-            <p>Raul Rodrigues Almeida</p>
-        </li>
-    </ul>
+<footer>
+<section class="section_principal" col-12>
+<div class=bloco1 col-3>
+    <section>
+        <a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
+    </section>
+    <section>
+        <a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
+    </section>
+    <section>
+        <a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
     </section>
 
     <section class="col-lg-4 col-12">
