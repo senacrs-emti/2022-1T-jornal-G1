@@ -1,6 +1,7 @@
 <footer>
 <section class="section_principal" col-12>
 <div class=bloco1 col-3>
+    <hr>
     <section>
         <a href="#">
             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
