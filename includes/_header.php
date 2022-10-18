@@ -12,7 +12,7 @@
     <title>Hello, world!</title>
   </head>
 
-  <body>
+  <body class="container-fluid">
     <header>
         <nav>
             <ul>
