@@ -6,8 +6,14 @@ nav{
 
 }
 
+@media only screen and (max-width: 600px) {
+    .mheader{
+        display: none;
+    }
+}
+
 nav ul li{
-    font-size: large;
+    font-size: x-large;
     list-style-type: none;
     float: left;
     margin-right: 10px;
