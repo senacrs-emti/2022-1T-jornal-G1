@@ -23,9 +23,27 @@
 </div>
 <div class=bloco2 col-3>
 <section>
-
+<a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
+    </section>
+    <section>
+        <a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
+    </section>
+    <section>
+        <a href="#">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+            <p> Raul Rodrigues Almeida </p>
+        </a>
+    </section>
 </div>
+<div class="bloco3-mapa">
 </section>
+</div>
 </footer>
 
   <!-- Bootstrap CSS -->

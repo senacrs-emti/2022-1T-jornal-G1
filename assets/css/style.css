@@ -27,7 +27,7 @@ footer{
     height: 500px;
     display: block;
     float: left;
-    background-color: #B31254;
+    background-color: #fffafc;
 }
 .section_principal{
     display: inline;
@@ -42,6 +42,15 @@ footer img{
 footer p{
     float: left;
     margin-top: 100px;
-    margin-left: 20px;
-    font-size: 12px;
+    margin-left: 5px;
+    font-size: 10px;
+}
+.bloco1 {
+    width: 60%;
+}
+.bloco2 {
+    width: 60%;
+}
+.bloco3 {
+    width: 40%;
 }
