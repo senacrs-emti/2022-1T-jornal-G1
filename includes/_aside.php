@@ -14,9 +14,8 @@
 <section>
     <a href=""><img class="aimg" src="./contents/propaganda.jpg" alt=""></a>
 </section>
-<section id='wrap'>
-    <div id='calendar'></div>
-    <div style='clear:both'></div>
+<section>
+   
 </section>    
 
 </aside>
