@@ -24,40 +24,38 @@ aside{
 
 footer{
     width: 100%;
-    height: 500px;
+    height: auto;
     display: block;
     float: left;
-    background-color: #fffafc;
-}
-.section_principal{
-    display: inline;
+    background-color: #141513;
 }
 footer img{
-    margin-top: 100px;
-    margin-left: 100px;
-    width: 40px;
-    height: 40px;
+    margin-top: 5%;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
     border-radius: 100%;
 }
 footer p{
-    margin-top: 100px;
-    margin-left: 200px;
-    margin-top: 0px;
-    font-size: 10px;
+    padding-top: 5%;
+    margin-left: 25px;
     color: aliceblue;
-}
-.bloco1 {
-    width: 60%;
-}
-.bloco2 {
-    width: 60%;
-}
-.bloco3 {
-    width: 40%;
+    font-size: 15px;
 }
 
-footer hr{
-    border-color: white;
-    width: 100%;
-    height: 100%;
+footer p, img{
+    display: inline-block;
+}
+footer ul {
+    list-style-type: none;
+    float: left;
+}
+.divisão {
+    float:left;
+}
+
+.mapafooter{
+    margin-top: 1.7%;
+    height: auto;
 }
