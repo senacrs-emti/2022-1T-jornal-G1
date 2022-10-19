@@ -20,9 +20,18 @@ aside{
     display: block;
     float: left;
     background-color: #FF0D70;
+    
+}
+aside button{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 90%;
+   
+    
 }
 .A4{
     margin-left: 40px;
+    
 }
 ul li{
     margin-left: 20px;
@@ -32,7 +41,14 @@ aside img{
     height: 300px;
     width: 70%;
     margin-left: 58px;
-    margin-top: 5px;
+    margin-top: 7px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+a{
+    color: black;
+}
+a:visited{
+    color:black;
 }
 
 
