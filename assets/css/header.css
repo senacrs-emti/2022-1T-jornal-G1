@@ -4,6 +4,7 @@ nav{
     display: block;
     float: left;
 
+
 }
 
 @media only screen and (max-width: 600px) {
@@ -23,7 +24,6 @@ nav ul li{
 #logoimg{
     width: 110px;
     height: 100px;
-    padding-left: 15px;
 }
 
 .logoc{
@@ -33,4 +33,14 @@ nav ul li{
     background-color: blueviolet;
     margin-left: auto;
     margin-right: auto;
+}
+
+.logoCel{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .logoCel{
+        display: block;
+    }
 }

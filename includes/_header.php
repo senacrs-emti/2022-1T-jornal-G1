@@ -17,7 +17,7 @@
 <body>
   <header class="container-fluid">
     <div class="row">
-      <div class="mheader col-0 col-12">
+      <div class="mheader col-12">
         <div id="logo">
           <div class="logoc mt-3 mb-3">
             <img id="logoimg" src="https://pa1.narvii.com/6859/aa91a22ceae6628b069a9e40c5abc88e34bacc87_hq.gif" alt="logo">
@@ -26,37 +26,48 @@
       </div>
       <nav class="navbar navbar-expand-lg navbar-light col-12">
         <div class="">
-          <div class="col-12 col-lg-8">
-            <div class="logoc col-12">
-              <img id="logoimg" src="https://pa1.narvii.com/6859/aa91a22ceae6628b069a9e40c5abc88e34bacc87_hq.gif" alt="logo">
-            </div>
-          </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-2 ml-2">
+              <li class="nav-item">
+                <a class="nav-link text-light" href="./index.php">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="./noticia.php">Noticia</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="./editoria.php">Editoria</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="#">Poemas</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="#">Entrevistas</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="#">Charges</a>
+              </li>
+          </div>
         </div>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link text-light" href="./index.php">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-light" href="./noticia.php">Noticia</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-light" href="./editoria.php">Editoria</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-light" href="#">Poemas</a>
-            </li>
+        <div class="">
+          <div class="col-12 col-lg-8">
+            <div class="logoCel logoc col-12">
+              <img id="logoimg" src="https://pa1.narvii.com/6859/aa91a22ceae6628b069a9e40c5abc88e34bacc87_hq.gif" alt="logo">
+            </div>
+          </div>
         </div>
+        <hr>
+        <div class="col-12 col-lg-4">
+          <form class="form-inline my-2 my-lg-0 text-right">
+            <input class="form-control col-8 mr-1 mr-lg-2 bg btn-outline-white" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-light col-3 my-1 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+
     </div>
-    <div class="col-10 col-lg-4">
-      <form class="form-inline my-2 my-lg-0 text-right">
-        <input class="form-control col-8 mr-2 mr-lg-2 bg btn-outline-white" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-light col-3 my-1 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
+
     </nav>
     </div>
   </header>
