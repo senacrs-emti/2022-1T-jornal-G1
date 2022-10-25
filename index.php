@@ -3,8 +3,10 @@
 include_once './includes/_header.php';
 // parte do conteudo da pagina
 ?>
-<main>
-    <h1>index</h1>
+<main class="container-fluid">
+    <div class="row col-8">
+        
+    </div>
 </main>
 <?php
 // include do aside
