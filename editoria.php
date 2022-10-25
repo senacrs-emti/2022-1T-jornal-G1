@@ -5,7 +5,12 @@ include_once './includes/_header.php';
 ?>
 
 <main>
-    <h1>editorial</h1>
+    <div class="row">
+        <div class="col-8">
+            <h1>editorial</h1>
+        </div>
+    </div>
+
 </main>
 <?php
 // include do aside
