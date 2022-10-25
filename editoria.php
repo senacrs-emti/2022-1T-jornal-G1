@@ -3,6 +3,7 @@
 include_once './includes/_header.php';
 // parte do conteudo da pagina
 ?>
+
 <main>
     <h1>editorial</h1>
 </main>

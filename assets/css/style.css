@@ -8,7 +8,7 @@ header{
 
 main{
     width: 70%;
-    height: 550px;
+    height: 750px;
     display: block;
     float: left;
     background-color: #1D0A24;
@@ -16,11 +16,41 @@ main{
 
 aside{
     width: 30%;
-    height: 550px;
+    height: 750px;
     display: block;
     float: left;
     background-color: #FF0D70;
+    
 }
+aside button{
+    margin-top: 70px;
+    width: 70%;
+   
+    
+}
+.A4{
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+ul li{
+    margin-left: 20px;
+    
+}
+aside img{
+    height: 300px;
+    width: 70%;
+    margin-left: 58px;
+    margin-top: 7px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+a{
+    color: black;
+}
+a:visited{
+    color:black;
+}
+
 
 footer{
     width: 100%;

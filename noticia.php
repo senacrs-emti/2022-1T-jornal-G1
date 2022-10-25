@@ -4,7 +4,9 @@ include_once './includes/_header.php';
 // parte do conteudo da pagina
 ?>
 <main>
-    <h1>noticia</h1>
+    <h1>NOME DA NOTICIA</h1>
+   
+
 </main>
 <?php
 // include do aside
