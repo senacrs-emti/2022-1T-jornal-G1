@@ -8,18 +8,20 @@ header{
 
 main{
     width: 70%;
-    height: 750px;
+    height: auto;
     display: block;
     float: left;
     background-color: #1D0A24;
+    padding-bottom: 100px;
 }
 
 aside{
     width: 30%;
-    height: 750px;
+    height: auto;
     display: block;
     float: left;
     background-color: #FF0D70;
+    padding-bottom: 100px;
     
 }
 aside button{
