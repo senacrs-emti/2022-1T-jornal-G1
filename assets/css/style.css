@@ -7,8 +7,9 @@ header{
 }
 
 main{
-    width: 70%;
-    height: auto;
+    width: auto;
+    
+    overflow-x: hidden;
     display: block;
     float: left;
     background-color: #1D0A24;
@@ -18,13 +19,12 @@ main{
 
 
 aside{
-    width: 30%;
-    height: auto;
-    display: block;
+    width: auto;
+    height: auto;    overflow-x: hidden;
+    display: flex;
     float: left;
     background-color: #FF0D70;
     padding-bottom: 100px;
-    
 }
 
 aside button{
