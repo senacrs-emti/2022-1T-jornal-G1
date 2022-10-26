@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/header.css">
   <link rel="stylesheet" href="./assets/css/menu.css">
+  <link rel="stylesheet" href="editoria.css">
 
   <title>Hello, world!</title>
 </head>
