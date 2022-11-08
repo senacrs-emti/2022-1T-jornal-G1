@@ -15,6 +15,19 @@ main{
     background-color: #1D0A24;
     padding-bottom: 100px;
 }
+.h1not{
+    margin-left: 3%;
+    margin-top: 4%;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h5not{
+    margin-left: 3%;
+    margin-top: 1%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 
 
