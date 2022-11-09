@@ -37,10 +37,10 @@
                 <a class="nav-link text-light" href="./index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./noticia.php">Notícias</a>
+                <a class="nav-link text-light" href="./editoria.php">Editoria</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./editoria.php">Editoria</a>
+                <a class="nav-link text-light" href="./noticia.php">Notícias</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="#">Entrevistas</a>
@@ -60,8 +60,8 @@
         <hr>
         <div class="col-12 col-lg-4">
           <form class="form-inline my-2 my-lg-0 text-right">
-            <input class="form-control col-8 mr-1 mr-lg-2 bg btn-outline-white" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-light col-3 my-1 my-sm-0" type="submit">Search</button>
+            <input class="form-control col-8 mr-1 mr-lg-2 bg btn-outline-white" type="search" placeholder="Pesquisar" aria-label="Search">
+            <button class="btn btn-outline-light col-3 my-1 my-sm-0" type="submit">Pesquisar</button>
           </form>
         </div>
 
