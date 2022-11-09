@@ -138,3 +138,16 @@ footer ul {
     height: auto;
 
 }
+
+img{
+    height: 200px;
+}
+
+.carousel{
+    height: 300px;
+}
+
+.cardcar{
+    width: 100%;
+    height: 300px;
+}

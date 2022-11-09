@@ -22,9 +22,9 @@
   <header class="container-fluid">
     <div class="row">
       <div class="mheader col-12">
-        <div class="text-center mb-2 mt-2" id="logo">
+        <a href="./index.php"><div class="text-center mb-2 mt-2" id="logo">
           <img id="logoimg" src="assets/img/logoNoN.png" alt="logo">
-        </div>
+        </div></a>
       </div>
       <nav class="navbar navbar-expand-lg navbar-light col-12">
         <div class="">

@@ -20,21 +20,21 @@ include_once './includes/_header.php';
                     </ol>
                     <div class="carousel-inner carall" >
                         <div class="carousel-item active">
-                            <img src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -51,56 +51,56 @@ include_once './includes/_header.php';
                     </button>
                 </div>
                 <div>
-                    <div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Ingressos Lollapalooza</h5>
+                        </div>
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-4">
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                        </div>
-                    </div>
+                    </div></a>
                 </div>
                 <div id="more">
-                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                            </div>
+                <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                            </div>
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                            </div>
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
-                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                            <div class="card-img-overlay">
-                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                            </div>
+                    </div></a>
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
                         </div>
+                    </div></a>
                     <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">
