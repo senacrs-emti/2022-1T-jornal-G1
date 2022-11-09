@@ -10,10 +10,10 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="./assets/css/style.css">
-  <link rel="stylesheet" href="./assets/css/header.css">
-  <link rel="stylesheet" href="./assets/css/menu.css">
-  <link rel="stylesheet" href="editoria.css">
+    <link rel="stylesheet" href="./assets/css/style.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
+  <link rel="stylesheet" href="./assets/css/header.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
+  <link rel="stylesheet" href="./assets/css/menu.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
+  <link rel="stylesheet" href="editoria.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
 
   <title>Hello, world!</title>
 </head>
@@ -39,7 +39,7 @@
                 <a class="nav-link text-light" href="./index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./noticia.php">Noticia</a>
+                <a class="nav-link text-light" href="./noticia.php">Notícias</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="./editoria.php">Editoria</a>
