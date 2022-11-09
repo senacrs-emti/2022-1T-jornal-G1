@@ -1,24 +1,24 @@
     <aside class="col-12 col-lg-4">
         <div class="row">
-            <section class="col-12">
+            <section class="col-12 text-light">
                 <h4 class="A4">Artigos de opiniões</h4>
                 <ul>
-                    <a href="http://www.frivjogosonline.com.br/">
+                    <a class="text-light" href="http://www.frivjogosonline.com.br/">
                         <li>lorem ipsum</li>
                     </a>
-                    <a href="">
+                    <a class="text-light" href="">
                         <li>lorem ipsum</li>
                     </a>
-                    <a href="">
+                    <a class="text-light" href="">
                         <li>lorem ipsum</li>
                     </a>
-                    <a href="">
+                    <a class="text-light" href="">
                         <li>lorem ipsum</li>
                     </a>
-                    <a href="">
+                    <a class="text-light" href="">
                         <li>lorem ipsum</li>
                     </a>
-                    <a href="">
+                    <a class="text-light" href="">
                         <li>lorem ipsum</li>
                     </a>
                 </ul>
