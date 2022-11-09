@@ -103,7 +103,7 @@ include_once './includes/_header.php';
                     </div>
                 </div>
                 <div class="text-center align-middle">
-                    <button onclick="loadmore()" id="showmore" class="btn btn-primary col-4 col-lg-3 mt-5" type="submit" style="background-color: #B31254;">carregar mais</button>
+                    <button onclick="loadmore()" id="myBtn" class="btn btn-primary col-4 col-lg-3 mt-5" type="submit" style="background-color: #B31254;">carregar mais</button>
                 </div>
             </div>
         </div>
