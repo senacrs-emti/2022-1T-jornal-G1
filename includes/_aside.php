@@ -3,7 +3,7 @@
             <section class="col-12">
                 <h4 class="A4">Artigos de opiniões</h4>
                 <ul>
-                    <a href="http://www.frivjogosonline.com.br/">
+                    <a href="">
                         <li>lorem ipsum</li>
                     </a>
                     <a href="">
