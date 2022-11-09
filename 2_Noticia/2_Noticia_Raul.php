@@ -5,14 +5,14 @@ include_once './includes/_header.php';
 ?>
 <main class="container col-12 col-lg-8">
     <div class="row col-12">
-        <h1 class="h1not" >Rock in Rio 2022</h1>
-        <h5 class="h5not" >Afinal, o evento foi bom?</h5>
+        <h1 class="h1not" >Venda dos ingressos Lollapalooza 2023</h1>
+        <h5 class="h5not" >Está disponível a compra dos ingressos para o evento que ocorrerá no ano que vem</h5>
         <img class="imgum" src="./contents/imgmain.jpg" alt="imagem">
         <div class="textoimagem"><h4 class="textolegal text-justify" style="color: white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. </h4></div>
-        <p class="pnoticia text-justify" style="color: white;">Em setembro desse ano, 2022, foi feita a nona edição do Rock in Rio, um dos maiores eventos do Brasil. O evento ocorreu nos dias dois, três, quatro, oito, nove, dez e onze de setembro. O evento aconteceu na Cidade do Rock, no Rio de Janeiro, e contou com shows bons e alguns ruins de diversos artistas.</p>
-        <p class="pnoticia text-justify" style="color: white;">A realidade é que os shows muitas vezes decepcionaram as pessoas ou simplesmente não foram bons o suficiente, com alguns artistas nem tão populares e com shows bem “meia bocas” por assim dizer, e claro, é interessante sempre dar chance a artistas um pouco menores, mas a questão é que nem os shows de grandes bandas e músicos muitas vezes foram bons, tivemos a participação, por exemplo, da banda de rock Guns N’ Roses, com seu show que visto de muitos olhares e pontos de vista de diversas pessoas, foi ruim e não atendeu as expectativas do público. Claro, nem sempre os shows serão bons, mas desta vez a quantidade de ruins superou a dos bons, e isso obviamente que prejudica a imagem do evento de certa forma.</p>
-        <p class="pnoticia text-justify" style="color: white;">
-        <div class="row row-cols-1 row-cols-md-2">Claro, não foi de todo mal o evento este ano, tivemos participações de artistas incríveis que tem muito potencial de crescer mais ainda do que já cresceram e que ainda podem ter um impulso e uma visibilidade muito maior na música brasileira e internacional e em geral o evento não foi desastroso, apenas conteve alguns aspectos que falhou muito com as pessoas que compraram os ingressos e que estavam lá.</p>
+        <p class="pnoticia text-justify" style="color: white;">Saíram os ingressos para o maior festival de São Paulo, o Lollapalooza. O evento acontecerá nos dias 24, 25 e 26 de março de 2023 no Autódromo de Interlagos e contará com muitos artistas incríveis e muito populares atualmente, com músicas marcantes e que muitas vezes são consideradas hits.</p>
+        <p class="pnoticia text-justify" style="color: white;">Os ingressos para um dia custam de 600 a 700 reais, variando do dia que será escolhido pelo comprador para comprar os ingressos, já para ter ingresso para os shows do dia 24 a 26 de março, ou seja, o início e fim do evento, os ingressos podem variar os preços entre os valores de 1.500 reais e 3.600 reais, variando  baseado no ingresso que a pessoa comprará, dependendo se é estudante ou em qual banco que utilizará para efetuar a compra, já que em alguns casos pode se ter descontos inclusos por outros benefícios voltados para pessoas deficientes.</p>
+        <p class="pnoticia text-justify" style="color: white;">E na parte dos shows podemos perceber que a lista está enorme, com muitos artistas que são fenômenos hoje em dia como Billie Eilish, Lil Nas X, Rosália, Blink-182, Tame Impala, Cigarettes after sex, Drake e muitos outros. Os shows prometem muito e estão todos ansiosos para este evento, já que, como mencionado anteriormente, é um dos maiores eventos de São Paulo e desta vez promete muito a ter os melhores shows.</p>
+        <div class="row row-cols-1 row-cols-md-2">
                 <h2 class="h2not">NOTÍCIAS SEMELHANTES</h2>
                 <hr class="col-12 bg-light">
             <div class="col mb-4">
