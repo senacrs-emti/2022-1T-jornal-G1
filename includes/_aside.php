@@ -4,7 +4,7 @@
                 <h4 class="A4">Artigos de opiniões</h4>
                 <ul>
                     <a href="">
-                        <li>lorem ipsum</li>
+                        <a href="C:\xampp\htdocs\2022-1T-jornal-G1\2022-1T-jornal-G1\1_Artigo\1_ArtigoSa.php"><li>lorem ipsum</li></a>
                     </a>
                     <a href="">
                         <li>lorem ipsum</li>
