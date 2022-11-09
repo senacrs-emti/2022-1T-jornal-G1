@@ -92,10 +92,10 @@ aside img{
     box-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 a{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 a:visited{
-    color:black;
+    color:rgb(0, 0, 0);
 }
 
 
