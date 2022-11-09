@@ -23,13 +23,15 @@ nav ul li{
 
 #logoimg{
     width: 110px;
-    height: 100px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logoc{
     border-radius: 100px;
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
     background-color: blueviolet;
     margin-left: auto;
     margin-right: auto;

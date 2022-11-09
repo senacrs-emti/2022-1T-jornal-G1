@@ -7,25 +7,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/css/style.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
+  <link rel="stylesheet" href="./assets/css/header.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
+  <link rel="stylesheet" href="./assets/css/menu.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
+  <link rel="stylesheet" href="editoria.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="./assets/css/style.css?v=<?php echo date("YmdHis").rand(0,999999);?>">
-  <link rel="stylesheet" href="./assets/css/header.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
-  <link rel="stylesheet" href="./assets/css/menu.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
-  <link rel="stylesheet" href="editoria.css?v=<?php echo date("YmdHis").rand(0,999999);?>">">
-
-  <title>Hello, world!</title>
+  <title>News of Night</title>
+  <link rel="icon" type="imagem/png" href="assets/img/logoNoN.png">
 </head>
 
 <body>
   <header class="container-fluid">
     <div class="row">
       <div class="mheader col-12">
-        <div id="logo">
-          <div class="logoc mt-3 mb-3">
-            <img id="logoimg" src="https://pa1.narvii.com/6859/aa91a22ceae6628b069a9e40c5abc88e34bacc87_hq.gif" alt="logo">
-          </div>
+        <div class="text-center mb-2 mt-2" id="logo">
+          <img id="logoimg" src="assets/img/logoNoN.png" alt="logo">
         </div>
       </div>
       <nav class="navbar navbar-expand-lg navbar-light col-12">
@@ -34,7 +32,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-2 ml-2">
+            <ul class="navbar-nav mr-5 ml-5">
               <li class="nav-item">
                 <a class="nav-link text-light" href="./index.php">Home</a>
               </li>
@@ -43,9 +41,6 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="./editoria.php">Editoria</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="#">Poemas</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="#">Entrevistas</a>

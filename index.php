@@ -8,7 +8,7 @@ include_once './includes/_header.php';
     <main class="container col-12 col-lg-8 size">
         <div class="row">
             <div class="col-12">
-                <div class="col-12 mb-2">
+                <div class="col-12 mb-2 mt-4">
                     <h1 class="text-light">Lorem Ipsum</h1>
                     <hr>
                 </div>
@@ -76,31 +76,32 @@ include_once './includes/_header.php';
                         </div>
                     </div>
                 </div>
-                <div id="loadmore">
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                <div id="more">
+                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
+                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            </div>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
+                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            </div>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
+                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            </div>
                         </div>
-                    </div>
-                    <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                        <div class="card bg-transparent text-white col-12 col-lg-6 float-left mb-3">
+                            <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            </div>
                         </div>
-                    </div>
+                    <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">
                     <button onclick="loadmore()" id="myBtn" class="btn btn-primary col-4 col-lg-3 mt-5" type="submit" style="background-color: #B31254;">carregar mais</button>
