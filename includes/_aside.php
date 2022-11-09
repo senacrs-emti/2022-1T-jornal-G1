@@ -3,8 +3,8 @@
             <section class="col-12 text-light">
                 <h4 class="A4">Artigos de opiniões</h4>
                 <ul>
-                    <a class="text-light" href="./1_Artigo/1_ArtigoSa.php">
-                        <li>lorem ipsum</li>
+                    <a class="text-light" href="./Artigo_jogos_indies.php">
+                        <li>Jogos indies</li>
                     </a>
                     <a class="text-light" href="">
                         <li>lorem ipsum</li>
