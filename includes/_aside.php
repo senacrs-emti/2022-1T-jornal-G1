@@ -6,11 +6,11 @@
                     <a class="text-light" href="./Artigo_jogos_indies.php">
                         <li>Jogos indies</li>
                     </a>
-                    <a class="text-light" href="">
-                        <li>lorem ipsum</li>
+                    <a class="text-light" href="./Artigo_RockandRio_2022.php">
+                        <li>Rock and Rio 2022</li>
                     </a>
-                    <a class="text-light" href="">
-                        <li>lorem ipsum</li>
+                    <a class="text-light" href="./Artigo_Cassinos_Online.php">
+                        <li>Cassinos Online</li>
                     </a>
                     <a class="text-light" href="">
                         <li>lorem ipsum</li>
