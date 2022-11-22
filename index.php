@@ -9,7 +9,7 @@ include_once './includes/_header.php';
         <div class="row">
             <div class="col-12">
                 <div class="col-12 mb-2 mt-4">
-                    <h1 class="text-light">Lorem Ipsum</h1>
+                    <h1 class="text-light">Menu</h1>
                     <hr>
                 </div>
                 <div id="carouselExampleCaptions" class="carousel slide col-12 mb-4" data-ride="carousel">
