@@ -21,21 +21,21 @@ include_once './includes/_header.php';
                     <div class="carousel-inner carall" >
                         <div class="carousel-item active">
                             <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-none d-md-block shadow">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-none d-md-block shadow">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
+                            <div class="carousel-caption d-none d-md-block shadow">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                             </div>
@@ -54,25 +54,25 @@ include_once './includes/_header.php';
                     <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Ingressos Lollapalooza</h5>
+                            <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Feira do tecnico</h5>
+                            <h5 class="card-title h5div">Feira do tecnico</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Feira de ciencias</h5>
+                            <h5 class="card-title h5div">Feira de ciencias</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Album da copa</h5>
+                            <h5 class="card-title h5div">Album da copa</h5>
                         </div>
                     </div></a>
                 </div>

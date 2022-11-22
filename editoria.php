@@ -11,68 +11,29 @@ include_once './includes/_header.php';
                 <div class="col-12 mb-2 mt-4">
                     <h1 class="text-light">Editorial</h1>
                     <hr>
-                </div>
-                <div id="carouselExampleCaptions" class="carousel slide col-12 mb-4" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner carall" >
-                        <div class="carousel-item active">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </button>
-                </div>
                 <div>
                     <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Ingressos Lollapalooza</h5>
+                            <h5 class="card-title h5div">Home</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Feira do tecnico</h5>
+                            <h5 class="card-title h5div">Notícias</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Feira de ciencias</h5>
+                            <h5 class="card-title h5div">Entrevistas</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Album da copa</h5>
+                            <h5 class="card-title h5div">Artigos de opinião</h5>
                         </div>
                     </div></a>
                 </div>
@@ -80,27 +41,16 @@ include_once './includes/_header.php';
                 <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Crônicas</h5>
                         </div>
                     </div></a>
                     <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Charges</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                        </div>
-                    </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
-                        </div>
-                    </div></a>
+
                     <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">
