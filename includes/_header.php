@@ -20,9 +20,9 @@
 
 <body>
   <header class="container-fluid">
-    <div class="row">
-      <div class="mheader col-12">
-        <a href="./index.php"><div class="text-center mb-2 mt-2" id="logo">
+    <div class="row justify-content-center">
+      <div class="mheader col-1">
+        <a href="./index.php"><div class="mb-2 mt-2" id="logo">
           <img id="logoimg" src="assets/img/logoNoN.png" alt="logo">
         </div></a>
       </div>
@@ -52,8 +52,10 @@
         </div>
         <div class="">
           <div class="col-12 col-lg-8">
-            <div class="logoCel logoc col-12">
-              <img id="logoimg" src="https://pa1.narvii.com/6859/aa91a22ceae6628b069a9e40c5abc88e34bacc87_hq.gif" alt="logo">
+            <div class="mheader col-8 logoCel">
+              <a href="./index.php"><div class="text-center mb-2 mt-2" id="logo">
+                <img id="logoimg" src="assets/img/logoNoN.png" alt="logo">
+              </div></a>
             </div>
           </div>
         </div>
