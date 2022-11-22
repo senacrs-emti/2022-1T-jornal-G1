@@ -88,13 +88,10 @@ aside button{
 }
 ul li{
     margin-left: 20px;
-    
 }
 aside img{
     height: 300px;
-    width: 70%;
-    margin-left: 58px;
-    margin-top: 7px;
+    width: 100%;
     box-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 a{
