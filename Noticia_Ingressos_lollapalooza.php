@@ -9,7 +9,7 @@ include_once './includes/_header.php';
         <h5 class="h5not mb-5" >Está disponível a compra dos ingressos para o evento que ocorrerá no ano que vem</h5>
         <p class="text-light pnoticia"><strong>RAUL RODRIGUES</strong> Cursando</p>
         <b class="text-muted pnoticia">22/11/2022 - 14:30</b>
-        <hr class="bg-light col-10 mt-1">
+        <hr class="bg-light col-12 mt-1">
         <img class="imgum" src="./contents/lollapalooza-2023.jpg" alt="lollapalooza">
         <div class="textoimagem"><h4 class="textolegal text-justify" style="color: white;">Lollapalooza 2023 </h4></div>
         <p class="pnoticia text-justify" style="color: white;">Saíram os ingressos para o maior festival de São Paulo, o Lollapalooza. O evento acontecerá nos dias 24, 25 e 26 de março de 2023 no Autódromo de Interlagos e contará com muitos artistas incríveis e muito populares atualmente, com músicas marcantes e que muitas vezes são consideradas hits.</p>

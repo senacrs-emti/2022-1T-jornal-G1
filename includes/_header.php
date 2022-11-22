@@ -40,7 +40,7 @@
                 <a class="nav-link text-light" href="./editoria.php">Editoria</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./noticia.php">Notícias</a>
+                <a class="nav-link text-light" href="./noticiaNova.php">Notícias</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="#">Entrevistas</a>

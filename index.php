@@ -6,7 +6,7 @@ include_once './includes/_header.php';
 
 <div>
     <main class="container col-12 col-lg-8 size">
-        <div class="row">
+        <div class="row col-12">
             <div class="col-12">
                 <div class="col-12 mb-2 mt-4">
                     <h1 class="text-light">Lorem Ipsum</h1>
