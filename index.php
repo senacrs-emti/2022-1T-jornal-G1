@@ -51,25 +51,25 @@ include_once './includes/_header.php';
                     </button>
                 </div>
                 <div>
-                    <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira do tecnico</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb- border-0">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira de ciencias</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Album da copa</h5>
@@ -77,28 +77,28 @@ include_once './includes/_header.php';
                     </div></a>
                 </div>
                 <div id="more">
-                <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
                         </div>
                     </div></a>
                     <span id="dots"></span>
