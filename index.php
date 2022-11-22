@@ -57,10 +57,10 @@ include_once './includes/_header.php';
                             <h5 class="card-title">Ingressos Lollapalooza</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                    <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title">Feira senac</h5>
                         </div>
                     </div></a>
                     <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
