@@ -44,6 +44,7 @@ main{
 .pnoticia {
     margin-left: 7%;
     margin-right: 7%;
+    font-weight: 300;
 }
 .h5not{
     margin-left: 7%;
@@ -53,7 +54,7 @@ main{
 }
 .imgum{
     height: 300px; 
-    width: 600px;
+    width: 86%;
     margin-left: 7%;
     
 }
