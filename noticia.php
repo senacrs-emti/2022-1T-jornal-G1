@@ -16,7 +16,7 @@ include_once './includes/_header.php';
                 <hr class="col-12 bg-light">
                 <a href=""><div class="col mb-4">
                 <div class="card bg-transparent border-0">
-                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 100px; width: 350px;"    alt="...">
+                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 150px; width: 350px;"    alt="...">
                     <div class="card-body">
                         <h5 class="card-title" style="color:white;">Lollapalooza</h5>
 
@@ -25,7 +25,7 @@ include_once './includes/_header.php';
             </div></a>
             <a href=""><div class="col mb-4">
                 <div class="card bg-transparent border-0">
-                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 100px; width: 350px;"    alt="...">
+                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 150px; width: 350px;"    alt="...">
                     <div class="card-body">
                         <h5 class="card-title" style="color:white;">Lollapalooza</h5>
 
@@ -34,7 +34,7 @@ include_once './includes/_header.php';
             </div></a>
             <a href=""><div class="col mb-4">
                 <div class="card bg-transparent border-0">
-                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 100px; width: 350px;"    alt="...">
+                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 150px; width: 350px;"    alt="...">
                     <div class="card-body">
                         <h5 class="card-title" style="color:white;">Lollapalooza</h5>
 
@@ -43,7 +43,7 @@ include_once './includes/_header.php';
             </div></a>
             <a href=""><div class="col mb-4">
                 <div class="card bg-transparent border-0">
-                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 100px; width: 350px;"    alt="...">
+                    <img src="./contents/lollapalooza-2023.jpg" class="card-img-top ml-4" style="height: 150px; width: 350px;"    alt="...">
                     <div class="card-body">
                         <h5 class="card-title" style="color:white;">Lollapalooza</h5>
 
