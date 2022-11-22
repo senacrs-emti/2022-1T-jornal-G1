@@ -12,8 +12,8 @@
                     <a class="text-light" href="./Artigo_Cassinos_Online.php">
                         <li>Cassinos Online</li>
                     </a>
-                    <a class="text-light" href="">
-                        <li>lorem ipsum</li>
+                    <a class="text-light" href="./Artigo_jogos_atualmente.php">
+                        <li>Jogos Atualmente</li>
                     </a>
                     <a class="text-light" href="">
                         <li>lorem ipsum</li>

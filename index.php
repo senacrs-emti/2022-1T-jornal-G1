@@ -69,10 +69,10 @@ include_once './includes/_header.php';
                             <h5 class="card-title">Feira de ciencias</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                    <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4">
+                        <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title">Lorem Ipsum Dolor</h5>
+                            <h5 class="card-title">Album da copa</h5>
                         </div>
                     </div></a>
                 </div>
