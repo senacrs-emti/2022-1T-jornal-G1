@@ -51,12 +51,8 @@ include_once './includes/_header.php';
                     </button>
                 </div>
                 <div>
-<<<<<<< HEAD
-                    <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
-=======
                     <a href="/venda-dos-ingressos-lollapalooza-2023.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
+                        <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
                         </div>
