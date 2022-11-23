@@ -50,7 +50,12 @@ include_once './includes/_header.php';
                             <h5 class="card-title h5div">Charges</h5>
                         </div>
                     </div></a>
-
+                    <a href="./Noticia_Copa_Mundo_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                        <img src="./contents/copa-22.jpeg" class="card-img" alt="copa2022">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title h5div">Copa do Mundo 2022</h5>
+                        </div>
+                    </div></a>
                     <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">
