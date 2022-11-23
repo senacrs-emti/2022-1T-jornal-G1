@@ -69,7 +69,7 @@ include_once './includes/_header.php';
                             <h5 class="card-title h5div">Feira de ciencias</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Album da copa</h5>
