@@ -31,18 +31,25 @@ include_once './includes/_header.php';
             <div>
                 <p>E na parte dos shows podemos perceber que a lista está enorme, com muitos artistas que são fenômenos hoje em dia como Billie Eilish, Lil Nas X, Rosália, Blink-182, Tame Impala, Cigarettes after sex, Drake e muitos outros. Os shows prometem muito e estão todos ansiosos para este evento, já que, como mencionado anteriormente, é um dos maiores eventos de São Paulo e desta vez promete muito a ter os melhores shows.</p>
             </div>
-            <div>
+            <section>
                 <h3 class="font-weight-bold">NOTÍCIAS SEMELHANTES</h3>
                 <hr class="bg-light">
-                <div class="card w-100">
-                    <a href="">
-                        <div class="card-body bg-dark border border-white">
-                            <h5 class="card-title">Lorem Ipsum</h5>
-                            <p class="card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda dignissimos.</p>
+                <div class="card mb-3 bg-transparent border-0">
+                    <div class="row no-gutters">
+                        <div class="col-md-2">
+                        <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
                         </div>
-                    </a>
+                        <div class="col-md-10">
+                        <div class="card-body">
+                            <a href="" class="text-light">
+                                <h5 class="card-title font-weight-bold">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
+                                <p class="card-text">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                            </a>
+                        </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
 </main>
