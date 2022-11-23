@@ -10,7 +10,6 @@ body{
     background-color: #FF0D70!important;
 }
 
-
 main{
     width: auto;
     overflow-x: hidden;
@@ -19,6 +18,58 @@ main{
     background-color: #1D0A24;
     padding-bottom: 100px;
 }
+
+/*Noticias*/
+.paragrafo-artigo{
+    font-weight: 300;
+    line-height: 32px;
+    font-size: 1em;
+}
+.imagem-artigo{
+    font-weight: 300;
+    font-size: small;
+}
+.titulo{
+    font-size: 4rem;
+}
+.subtitulo{
+    font-size: 1.125rem;
+    font-weight: 300;
+}
+.imgLolla1{
+    height: 350px;
+}
+.imgLolla2{
+    height: 350px;
+}
+.semelhantes{
+    font-weight: 300;
+}
+@media only screen and (max-width: 600px) {
+
+    .titulo{
+        font-size: 1.7rem;
+    }
+    .imgLolla1 {
+        height: 260px!important;
+        max-height: 260px!important;
+    }
+    .imgLolla2{
+        height: 310px!important;
+        max-height: 310px!important;
+    }
+    .h5-outras{
+        font-size: medium;
+    }
+    .p-outras{
+        font-size: small;
+    }
+    .card-body{
+        padding: 0%!important;
+    }
+
+}
+
 .h1not{
     font-size: 35px;
     font-family: Arial, Helvetica, sans-serif;
