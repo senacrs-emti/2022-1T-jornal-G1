@@ -67,6 +67,9 @@ main{
     .card-body{
         padding: 0%!important;
     }
+    .col-12{
+        padding-right: 1%!important;
+    }
 
 }
 
