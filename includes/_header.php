@@ -40,7 +40,7 @@
                 <a class="nav-link text-light" href="./editoria.php">Editoria</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./noticiaNova.php">Notícias</a>
+                <a class="nav-link text-light" href="./venda-dos-ingressos-lollapalooza-2023.php">Notícias</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link text-light" href="#">Entrevistas</a>
