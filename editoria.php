@@ -19,19 +19,19 @@ include_once './includes/_header.php';
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
+                        <img src="./contents/noticias.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Notícias</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
+                        <img src="./contents/entrevistas.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Entrevistas</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_album_copa_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/album2022.jpg" class="card-img" alt="...">
+                        <img src="./contents/população-pessoas.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Artigos de opinião</h5>
                         </div>
@@ -39,18 +39,23 @@ include_once './includes/_header.php';
                 </div>
                 <div id="more">
                 <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <img src="./contents/cronica.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Crônicas</h5>
                         </div>
                     </div></a>
                     <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                        <img src="./contents/charge.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Charges</h5>
                         </div>
                     </div></a>
-
+                    <a href="./Noticia_Copa_Mundo_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                        <img src="./contents/copa-22.jpeg" class="card-img" alt="copa2022">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title h5div">Copa do Mundo 2022</h5>
+                        </div>
+                    </div></a>
                     <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">

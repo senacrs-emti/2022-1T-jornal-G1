@@ -89,18 +89,6 @@ include_once './includes/_header.php';
                             <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
-                        </div>
-                    </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
-                        </div>
-                    </div></a>
                     <span id="dots"></span>
                 </div>
                 <div class="text-center align-middle">
