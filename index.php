@@ -52,19 +52,19 @@ include_once './includes/_header.php';
                 </div>
                 <div>
                     <a href="./Noticia_Ingressos_lollapalooza.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
+                        <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_tec_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
+                        <img src="./contents/feiratecnico.png" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira do tecnico</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira_ciencias_senac.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb- border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
+                        <img src="./contents/feiradeciencias.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira de ciencias</h5>
                         </div>
