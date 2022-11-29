@@ -32,7 +32,7 @@ include_once './includes/_header.php';
                 <p>O experimento foi realizado pelos alunos Augusto, Raphael e Vinicius do 1º 	ano do turno matutino.</p>
                 <div class="imagem-artigo">
                     <img src="./contents/3lugarfeira.png" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                    <p> Foto da feira de ciências da escola Senac distrito criativo</p>
+                    <p> Foto da feira de ciências da escola Senac Distrito Criativo</p>
                 </div>
             </div>
             <div class="paragrafo-artigo">
