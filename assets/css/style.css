@@ -7,7 +7,7 @@ header{
 }
 
 body{
-    background-color: #FF0D70!important;
+    background-color: #1D0A24!important;
 }
 
 main{
@@ -115,7 +115,7 @@ aside{
     height: auto;    overflow-x: hidden;
     display: flex;
     float: left;
-    background-color: #FF0D70;
+    background-color: #1D0A24;
     background-size: cover;
     padding-bottom: 100px;
 }
@@ -128,8 +128,9 @@ aside button{
     
 }
 .A4{
-    margin-left: 40px;
-    margin-top: 30px;
+    margin-left: 1%;
+    margin-top: 15%;
+    font-size: 30px;
     
 }
 ul li{
@@ -206,4 +207,10 @@ img{
 }
 .shadow {
     text-shadow: 0px 0px 7px black;
+}
+aside li{
+    font-size:25px;
+    width: 100%;
+    box-shadow: 0px 0px 1px white;
+    margin-bottom: 7%;
 }
