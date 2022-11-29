@@ -7,24 +7,26 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Violência Contra a Mulher</h1>
+            <h1 class="font-weight-bold mt-4 titulo">Ônibus</h1>
             <div class="pt-4">
                 <p class="text-light float-left"><strong>SARIA DORNELES</strong> Estudante</p>
                 <b class="text-muted float-right">29/11/2022 - 15:21</b>
             </div>
             <hr class="bg-light mt-4">
             <div class="paragrafo-artigo">
-                <p>Atualmente, a violência contra a mulher é, infelizmente, uma realidade que revolta e entristece a população atual. Dia 08 de março não é apenas qualquer dia no calendário, é o Dia Internacional das Mulheres, é o dia em que milhares de mulheres não se sentem mais caladas, se sentem livres para expressar todas as injustiças, desigualdades e violência, sendo essas violências psicológicas, físicas ou sexuais. Nessa luta são colocados avanços para disseminar esses abusos. A violência contra a mulher segue padrões complexos, geralmente o agressor é próximo a vítima. Grande parte das mulheres defende o seu agressor, e alguns motivos são: medo de se expor, perdão, questão financeira, negação (não querendo aceitar que está sendo agredida por alguém pelo qual apresentava ser confiável), entre outros diversos fatoresA. A violência abrange todas nós, em qualquer lugar e momento, mulheres negras, idosas, crianças, adolescentes, lésbicas, trans e entre tantas outras que estamos vulneráveis; muitas pessoas não veem as agressões psicológicas como uma das formas de violência; a violência psicológica causa feridas emocionais profundas nas vítimas, demorando anos para cicatrizar.</p>
+                <p>Um dia cansativo e chuvoso, no horário de pico, pessoas cansadas aglomeradas na parada do ônibus para não se molharem, os ônibus indo e vindo, será que algum vai parar?</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>As taxas de violência e feminicídio são gritantes, no primeiro semestre de 2022, o central de atendimentos registrou 31.398 denúncias e 169.676 violações envolvendo a violência doméstica contra as mulheres. Casos de feminicídio em 2022 superam em 60% todo o ano de 2021. A violência contra a mulher tem alta relevância na questão de saúde pública, uma vez que mulheres que vivem ou viveram em uma situação complicada têm mais queixas, distúrbios e patologias físicas e mentais; elas usufruem com mais frequência do serviço de saúde que aquelas que não vivenciaram a experiência. Estudos relatam consequências psicológicas e comportamentais da violência: uso de álcool, drogas, depressão, ansiedade, tabagismo, comportamentos suicidas e de autoflagelo, distúrbios na alimentação e no sono, baixa autoestima, fobias e síndrome do pânico.</p>
+                <p>As pessoas embarcando com o desejo de chegar em casa, ver aquela pessoa que você está há quase uma semana sem ver, o animalzinho de estimação que está te esperando o dia inteiro, a mãe com saudade, é tão injusto quando alguém não chega para você...</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>É importante que a sociedade entenda que esse tipo de crime não pode ser tolerado, é necessário que as pessoas compreendam a gravidade do problema, pois precisamos do poder do público para o combate à violência, reforçando e construindo cada vez mais projetos, como casas de acolhimento, serviços de proteções reunindo dados que mostrem a raiz da violência para permitir intervenções diretas nessas causas. Necessitamos apoiar as mulheres que sofrem ou já sofreram qualquer tipo de violência, para que elas não se sintam sozinhas, precisamos dar voz para essas pessoas.</p>
+                <p>Durante a viagem, o ar abafado e o mal cheiro se alastram no ambiente, você não sabe se vai sair dali ou não, os minutos se tornam uma eternidade, as pessoas pressionadas uma contra as outras, desconfortáveis, cansadas, estressadas com o peso do dia a dia, almejando o conforto de sua casa. </p>
             </div>
-            <div class="imagem-artigo">
-                <img src="./contents/imgcinza.jpg" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
+            <div class="paragrafo-artigo">
+                <p>As pessoas entrando e saindo do ônibus finalmente diminuindo a aglomeração, a pessoa que está segurando peso consegue um lugar para se sentar, a que trabalhou o dia inteiro também consegue esse privilégio, as pessoas conseguem parar de se empurrar para passar, o mínimo de conforto surge.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>As portas do ônibus se abrem, todos saem e seguem seu próprio rumo, finalmente aquela aglomeração teve um fim, ou não, pois entravam cada vez mais gente naquele ônibus, e o ciclo se repete de pessoas indo e vindo.</p>
             </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>

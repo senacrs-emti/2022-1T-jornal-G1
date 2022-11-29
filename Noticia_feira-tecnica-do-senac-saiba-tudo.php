@@ -19,7 +19,7 @@ include_once './includes/_header.php';
             </div>
             <div class="imagem-artigo">
                 <img src="./contents/senacfrente.jpg" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                <p> Foto da fachada da escola Senac distrito criativo em Porto Alegre</p>
+                <p> Foto da fachada da escola Senac Distrito Criativo em Porto Alegre</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Estarão participando todas as turmas da escola, sendo as turmas de primeiro ao terceiro ano do ensino médio. Todos os projetos serão organizados de acordo com os andares do prédio da Escola, então se quiser checar todos os projetos, passe de andar em andar e não de elevador!</p>

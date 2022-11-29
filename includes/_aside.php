@@ -8,26 +8,26 @@
                             <li class="row pl-3">Jogos indies</li>
                         </a>
                         <a class="text-light" href="./Artigo_RockandRio_2022.php">
-                            <li class="row pl-3">Rock and Rio 2022</li>
+                            <li class="row pl-3">Rock in Rio 2022</li>
                         </a>
-                        <a class="text-light" href="./Artigo_Cassinos_Online.php">
-                            <li class="row pl-3">Cassinos Online</li>
+                        <a class="text-light" href="./Artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php">
+                            <li class="row mt-5 pl-3">Cassinos Online</li>
                         </a>
                         <a class="text-light" href="./Artigo_jogos_atualmente.php">
                             <li class="row pl-3">Jogos Atualmente</li>
                         </a>
-                        <a class="text-light" href="">
-                            <li class="row pl-3">lorem ipsum</li>
+                        <a class="text-light" href="./Artigo_Violencia_contra_a_mulher.php">
+                            <li class="row pl-3">Violência Contra a Mulher</li>
                         </a>
                         <a class="text-light" href="">
-                            <li class="row pl-3">lorem ipsum</li>
+                            <li class="row pl-3">Artigo do Gabriel</li>
                         </a>
-                        <h4 class="row A4_5">Entrevista</h4>
+                        <h4 class="row A4_5">Entrevistas</h4>
                         <a class="text-light" href="">
-                        <li class="row pl-3">Escute nossa entrevista</li>
+                        <li class="row pl-3">A vida de um Influenciador Digital</li>
                         </a>
                         <a class="text-light" href="">
-                        <li class="row pl-3" id="li2">Leia nossa mais recente entrevista</li>
+                        <li class="row pl-3" id="li2">XXXX (TEMA)</li>
                         </a>
                     </ul> 
                 </section>

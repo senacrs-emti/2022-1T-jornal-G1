@@ -7,24 +7,32 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Violência Contra a Mulher</h1>
+            <h1 class="font-weight-bold mt-4 titulo">A NORMALIZAÇÃO DE JOGOS DE azar pode ser agora?</h1>
+            <h6 class="font-weight-normal subtitulo">Os famosos jogos de azar ou cassinos estão se tornando cada vez mais e mais apresentados em jogos e na vida real como sistemas inofensivos</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>SARIA DORNELES</strong> Estudante</p>
-                <b class="text-muted float-right">29/11/2022 - 15:21</b>
+                <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Estudante</p>
+                <b class="text-muted float-right">29/11/2022 - 14:36</b>
             </div>
             <hr class="bg-light mt-4">
             <div class="paragrafo-artigo">
-                <p>Atualmente, a violência contra a mulher é, infelizmente, uma realidade que revolta e entristece a população atual. Dia 08 de março não é apenas qualquer dia no calendário, é o Dia Internacional das Mulheres, é o dia em que milhares de mulheres não se sentem mais caladas, se sentem livres para expressar todas as injustiças, desigualdades e violência, sendo essas violências psicológicas, físicas ou sexuais. Nessa luta são colocados avanços para disseminar esses abusos. A violência contra a mulher segue padrões complexos, geralmente o agressor é próximo a vítima. Grande parte das mulheres defende o seu agressor, e alguns motivos são: medo de se expor, perdão, questão financeira, negação (não querendo aceitar que está sendo agredida por alguém pelo qual apresentava ser confiável), entre outros diversos fatoresA. A violência abrange todas nós, em qualquer lugar e momento, mulheres negras, idosas, crianças, adolescentes, lésbicas, trans e entre tantas outras que estamos vulneráveis; muitas pessoas não veem as agressões psicológicas como uma das formas de violência; a violência psicológica causa feridas emocionais profundas nas vítimas, demorando anos para cicatrizar.</p>
+                <p>Se você é mais a fundo no mundo dos games principalmente, irá perceber que os jogos de azar, jogos de chance ou cassinos estão ficando cada vez mais aparentes como mecânicas do jogo. Mas, primeiro, o que é este sistema?</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>As taxas de violência e feminicídio são gritantes, no primeiro semestre de 2022, o central de atendimentos registrou 31.398 denúncias e 169.676 violações envolvendo a violência doméstica contra as mulheres. Casos de feminicídio em 2022 superam em 60% todo o ano de 2021. A violência contra a mulher tem alta relevância na questão de saúde pública, uma vez que mulheres que vivem ou viveram em uma situação complicada têm mais queixas, distúrbios e patologias físicas e mentais; elas usufruem com mais frequência do serviço de saúde que aquelas que não vivenciaram a experiência. Estudos relatam consequências psicológicas e comportamentais da violência: uso de álcool, drogas, depressão, ansiedade, tabagismo, comportamentos suicidas e de autoflagelo, distúrbios na alimentação e no sono, baixa autoestima, fobias e síndrome do pânico.</p>
-            </div>
-            <div class="paragrafo-artigo">
-                <p>É importante que a sociedade entenda que esse tipo de crime não pode ser tolerado, é necessário que as pessoas compreendam a gravidade do problema, pois precisamos do poder do público para o combate à violência, reforçando e construindo cada vez mais projetos, como casas de acolhimento, serviços de proteções reunindo dados que mostrem a raiz da violência para permitir intervenções diretas nessas causas. Necessitamos apoiar as mulheres que sofrem ou já sofreram qualquer tipo de violência, para que elas não se sintam sozinhas, precisamos dar voz para essas pessoas.</p>
+                <p>Os jogos de azar são como caça-níqueis, são sistemas que se utilizam como base a Aleatoriedade para poder definir uma recompensa que pode ou não valer o valor que foi pago à máquina. Estes sistemas, são a parte mais básica de um Cassino, um lugar onde o Azar é a única certeza de lá. Cada vez mais é aparente em jogos como - <strong>Genshin Impact, Honkai Impact, Star wars Battlefront, Battlefield e Call of Duty Black Ops 4</strong> a aparição destes sistemas, escondendo partes-chave do jogo atrás de “paredes monetárias”, onde normalmente o único objetivo desses jogos de azar é arrecadar dinheiro. A principal ferramenta destes jogos de azar, pelo menos online, são as <strong>Loot Boxes</strong>, uma ferramenta que esconde itens do jogo atrás de uma porcentagem de <strong>DropChance</strong>.</p>
             </div>
             <div class="imagem-artigo">
-                <img src="./contents/imgcinza.jpg" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
+                <img src="https://picsum.photos/1000/500" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Não são só apenas nos jogos que temos problemas com estes sistemas de cassino, os mesmos sistemas também foram quase legalizados no Brasil!</p>
+            </div>
+            <ul class="paragrafo-artigo">
+                <li>Geração de empregos: A abertura de Cassinos gerará mais empregos, pois seriam lugares de alta circulação e abriria oportunidades para pessoas trabalharem no estabelecimento e etc.</li>
+                <li>Economia: Estes lugares gerariam muito mais economia por serem basicamente lugares que dariam dinheiro em troca de dinheiro.</li>
+            </ul>
+            <div class="paragrafo-artigo">
+                <p>Estes pontos parecem bons em curto prazo, mas o problema é que as pessoas viciam demais em jogos de azar, basicamente fazendo as mesmas pessoas perderem grande parte de sua vida dentro dos Cassinos. Não devemos apoiar estes jogos de azar sendo eles pequenos ou grandes, pois é extremamente prejudicial esconder itens ou progressões essenciais de um jogo, ou dando falsas promessas de mais dinheiro na vida real.</p>
             </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
