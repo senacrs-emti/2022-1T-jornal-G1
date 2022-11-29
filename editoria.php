@@ -11,7 +11,7 @@ include_once './includes/_header.php';
                 <div class="col-12 mb-2 mt-4">
                     <h1 class="text-light ml-3">Editorial</h1>
                     <hr>
-                <div>
+                <div class="container col-12">
                     <a href="./Noticia.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/noticias.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
