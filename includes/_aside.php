@@ -22,12 +22,12 @@
                         <a class="text-light" href="">
                             <li class="row pl-3">Artigo do Gabriel</li>
                         </a>
-                        <h4 class="row A4_5">Entrevista</h4>
+                        <h4 class="row A4_5">Entrevistas</h4>
                         <a class="text-light" href="">
-                        <li class="row pl-3">Escute nossa entrevista</li>
+                        <li class="row pl-3">A vida de um Influenciador Digital</li>
                         </a>
                         <a class="text-light" href="">
-                        <li class="row pl-3" id="li2">Leia nossa mais recente entrevista</li>
+                        <li class="row pl-3" id="li2">XXXX (TEMA)</li>
                         </a>
                     </ul> 
                 </section>
