@@ -10,8 +10,8 @@
                         <a class="text-light" href="./Artigo_RockandRio_2022.php">
                             <li class="row pl-3">Rock and Rio 2022</li>
                         </a>
-                        <a class="text-light" href="./Artigo_Cassinos_Online.php">
-                            <li class="row pl-3">Cassinos Online</li>
+                        <a class="text-light" href="./Artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php">
+                            <li class="row mt-5">Cassinos Online</li>
                         </a>
                         <a class="text-light" href="./Artigo_jogos_atualmente.php">
                             <li class="row pl-3">Jogos Atualmente</li>
