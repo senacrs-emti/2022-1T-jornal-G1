@@ -207,3 +207,8 @@ img{
 .shadow {
     text-shadow: 0px 0px 7px black;
 }
+aside li{
+    font-size:25px;
+    width: 100%;
+    box-shadow: 0px 0px 1px white;
+}
