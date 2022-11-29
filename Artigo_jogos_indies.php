@@ -5,7 +5,7 @@ include_once './includes/_header.php';
 ?>
 <main class="container col-12 col-lg-8">
     <div class="row col-12">
-        <h1 class="h1not" >UMA JORNADA POR JOGOS INDIES</h1>
+        <h1 class="h1not mt-3" >UMA JORNADA POR JOGOS INDIES</h1>
         <h5 class="h5not" >Jogos são algo extremamente consumido e lucrativo nos dias de hoje, mas voçê sabe o que são jogos indies?</h5>
         <img class="imgum" src="./contents/jogosindies.jpg" alt="jogos indies">
         <div class="textoimagem"><h4 class="textolegal text-justify" style="color: white;">Jogos indies(da esquerda para direita:Hollow knight, untitled goose, celeste, cuphead, undertale, shovel knight) </h4></div>
