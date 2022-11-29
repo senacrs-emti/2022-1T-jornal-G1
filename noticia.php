@@ -14,7 +14,7 @@ include_once './includes/_header.php';
                     <a href="./Noticia_album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Albúm da Copa 2022</h5>
+                            <h5 class="card-title h5div">Álbum da Copa 2022</h5>
                         </div>
                     </div></a>
                     <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
