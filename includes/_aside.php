@@ -8,7 +8,7 @@
                             <li class="row pl-3">Jogos indies</li>
                         </a>
                         <a class="text-light" href="./Artigo_RockandRio_2022.php">
-                            <li class="row pl-3">Rock and Rio 2022</li>
+                            <li class="row pl-3">Rock in Rio 2022</li>
                         </a>
                         <a class="text-light" href="./Artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php">
                             <li class="row mt-5 pl-3">Cassinos Online</li>

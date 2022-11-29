@@ -7,7 +7,7 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Violência contra a mulher</h1>
+            <h1 class="font-weight-bold mt-4 titulo">Violência Contra a Mulher</h1>
             <div class="pt-4">
                 <p class="text-light float-left"><strong>SARIA DORNELES</strong> Estudante</p>
                 <b class="text-muted float-right">29/11/2022 - 15:21</b>
