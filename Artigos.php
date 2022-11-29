@@ -11,25 +11,25 @@ include_once './includes/_header.php';
                     <h1 class="text-light ml-3">Notícias</h1>
                     <hr>
                 <div>
-                    <a href="./Noticia_album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/album2022.jpg" class="card-img" alt="...">
+                    <a href="./Artigo_Cassinos_Online.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                        <img src="./contents/cassinos.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Album da copa 2022</h5>
+                            <h5 class="card-title h5div">Cassinos Online</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/feiratecnico.png" class="card-img" alt="senac fachada">
+                    <a href="./Artigo_Jogos_atualmente.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                        <img src="./contents/games.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Feira tecnica senac</h5>
+                            <h5 class="card-title h5div">Jogos Atualmente</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira-experimental-de-ciencias-da-natureza-e-tecnologias-do-senac-distrito-criativo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./Artigo_jogos_indies.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/feiradeciencias.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira de ciencias senac</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_copa_mundo_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./Artigo_RockandRio_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/copa-22.jpeg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Copa Catar 2022</h5>
@@ -37,7 +37,7 @@ include_once './includes/_header.php';
                     </div></a>
                 </div>
                 <div id="more">
-                <a href="./Noticia_ingressos_lollapalooza23.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                <a href="./Artigo_Violencia_contra_a_mulher.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Ingressos Lollapalooza 2023</h5>
