@@ -27,7 +27,7 @@
                         <li class="row pl-3">Escute nossa entrevista</li>
                         </a>
                         <a class="text-light" href="">
-                        <li class="row pl-3">Leia nossa mais recente entrevista</li>
+                        <li class="row pl-3" id="li2">Leia nossa mais recente entrevista</li>
                         </a>
                     </ul> 
                 </section>
