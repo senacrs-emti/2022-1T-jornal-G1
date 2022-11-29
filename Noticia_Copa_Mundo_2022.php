@@ -19,17 +19,22 @@ include_once './includes/_header.php';
                 <p>Copa do Mundo 2022 no Catar</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>A copa do mundo é um evento muito amada por todos amantes de futebol, e que não se limita a só eles o mundo adora demais a grande festa q é feita para a copa. A copa desse ano passara no Catar um pais desértico é extremamente quente de dia, então todos os jogos são feitos a noite no Catar, aqui para nós no Brasil os jogos passarão no período da tarde.A copa desse ano ocorrera do dia 20 de novembro a 18 de Dezembro.</p></div>
+                <p>A copa do mundo é um evento muito amado por todos amantes de futebol, e que não se limita a só eles, o mundo ama demais a grande festa que é feita para a copa. A copa desse ano passara no Catar, um pais desértico extremamente quente de dia, então todos os jogos serão feitos à noite no Catar, aqui para nós no Brasil os jogos passarão no período da tarde. A copa desse ano ocorrera do dia 20 de novembro até 18 de dezembro</p></div>
             <div class="paragrafo-artigo">
-                <p>Catar é extremamente quente dificultando muito o deslocamento durante o dia, diversos jogadores ja deram entrevistas para jornais e disseram o que estava muito quente e difícil de até treinar, porem alguns jogadores falaram que até preferem o calor do que o frio de seus países, como disse um zagueiro da Inglaterra. Alguns Brasileiros deram entrevista e reclamaram das temperaturas porem estamos um pouco mais acostumados por vivermos no Brasil que também é um pais quente.</p></div>
+                <p>Catar é extremamente quente dificultando muito o deslocamento durante o dia, diversos jogadores já deram entrevistas para jornais e disseram o que estava muito quente e difícil de até treinar, porem alguns jogadores falaram que até preferem o calor, do que o frio de seus países, como disse um zagueiro da Inglaterra. Alguns Brasileiros deram entrevista e reclamaram das temperaturas, porem estamos um pouco mais acostumados por vivermos no Brasil que também é um pais quente.</p></div>
             <div class="imagem-artigo">
                 <img src="./contents/bolacopa22.webp" alt="bolacopa" class="w-100 mb-2 imgLolla2">
                 <p>Bola da Copa do Mundo 2022</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>Esse ano de 2022 o Brasil jogara novamente com a administração do técnico Tite, Teremos muitos jogadores bons na seleção como, Neymar, goleiro Alisson, Richarlison, Dani Alves e muitos outros.</div>
+                <p>Esse ano de 2022 o Brasil jogara novamente com a administração do técnico Tite, teremos muitos jogadores bons na seleção como, Neymar, goleiro Alisson, Richarlison, Dani Alves e muitos outros.</div>
             <div class="paragrafo-artigo">
-                <p>O Brasil terá jogos das eliminatória nos dias: 24/11 Quinta as 16:00 (Brasilia) contra a Sérvia, 28/11 Segunda as 13:00(Brasilia) contra a Suíça, 02/12 Sexta as 16:00(Brasilia) contra o Camarões. Esses serão os jogos das eliminatórias que ja foram definidas pela FIFA.</p></div>            
+                <p>O Brasil terá jogos nos dias:
+ 24/11 Quinta as 16:00 (Brasília) contra a Sérvia,
+ 28/11 Segunda as 13:00(Brasília) contra a Suíça,
+ 02/12 Sexta as 16:00(Brasília) contra o Camarões. 
+
+</p></div>            
             <section class="semelhantes">
 
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>

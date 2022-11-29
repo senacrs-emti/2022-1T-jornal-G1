@@ -24,23 +24,23 @@ include_once './includes/_header.php';
                         </div>
                     </div></a>
                     <a href="./Artigo_jogos_indies.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/feiradeciencias.jpg" class="card-img" alt="...">
+                        <img src="./contents/jogosindies.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Feira de ciencias senac</h5>
+                            <h5 class="card-title h5div">Jogos indies</h5>
                         </div>
                     </div></a>
                     <a href="./Artigo_RockandRio_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/copa-22.jpeg" class="card-img" alt="...">
+                        <img src="./contents/RockandRio22.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Copa Catar 2022</h5>
+                            <h5 class="card-title h5div">Rock and Rio 2022</h5>
                         </div>
                     </div></a>
                 </div>
                 <div id="more">
                 <a href="./Artigo_Violencia_contra_a_mulher.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
+                        <img src="https://picsum.photos/200/300" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Ingressos Lollapalooza 2023</h5>
+                            <h5 class="card-title h5div">Violencia contra a Mulher</h5>
                         </div>
                     </div></a>
                     <a href="#"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">

@@ -20,25 +20,25 @@ include_once './includes/_header.php';
                     </ol>
                     <div class="carousel-inner carall" >
                         <div class="carousel-item active">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                        <a href="./Artigo_jogos_indies.php"><img class="cardcar" src="./contents/jogosindies.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-caption d-none d-md-block shadow">
+                                <h5>Jogos indies</h5>
+                                <p>Jogos são algo extremamente consumido e lucrativo nos dias de hoje, mas voçê sabe o que são jogos indies?</p>
+                            </div>
+                        </div></a>
+                        <div class="carousel-item">
+                            <a href=""><img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block shadow">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
+                            </div></a>
                         </div>
                         <div class="carousel-item">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <a href=""><img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block shadow">
                                 <h5>Lorem Ipsum Dolor</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
-                            <div class="carousel-caption d-none d-md-block shadow">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            </div>
+                            </div></a>
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
