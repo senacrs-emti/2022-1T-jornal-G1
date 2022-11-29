@@ -7,17 +7,29 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Procrastinação</h1>
+            <h1 class="font-weight-bold mt-4 titulo">Gatos de madrugada</h1>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>ROBERTO LEITÃO</strong> Estudante</p>
-                <b class="text-muted float-right">29/11/2022 - 15:21</b>
+                <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Estudante</p>
+                <b class="text-muted float-right">29/11/2022 - 16:24</b>
             </div>
             <hr class="bg-light mt-4">
             <div class="paragrafo-artigo">
-                <p>Ai ai... Falar desse tema até cansa, provavelmente escrevi esse texto no último dia, e no último minuto que deu, só para ficar fazendo qualquer outra coisa, isso é algo que assusta muito a nossa sociedade atual, diversas pessoas sofrem de procrastinação, de sempre fazerem outras coisas ou demorar para fazer algo que é literalmente só ir e fazer, e não deixar para depois, deve ter algum estudo sobre isso, mas estou com preguiça de procurar isso, mas eu juro que deve ter.</p>
+                <p>Os gatinhos de manhã, anjinhos felpudos e carentes, dorminhocos e sem demônios no corpo... Pelo menos quando não querem brincar. Mas a coisa de verdade, que precisamos conversar:</p>
+            </div>
+            <div class="paragrafo-artigo font-weight-bold">
+                <p>Gatinhos de Madrugada</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>Provavelmente alguém deve estar cansado de ler até aqui justamente por ser um texto de mais de uma linha, mas eu entendo também sou assim, demoro para ler coisas assim ou as vezes nem leio, e o mundo todo está muito assim, a maioria das pessoas no mundo hoje em dia prefere assistir um tiktok, reels ou uns shorts porque são curtos e mais rápidos do que assistir um vídeo de 10 ou 15 minutos sobre um assunto, que pode ser importante, porque a maioria das vezes esse aplicativos fazem a gente procrastinar só pra assistir mais um vídeozinho de alguém fazendo alguma piada ou algo engraçado, acho que nossa sociedade deve ter muitas crises de procrastinação por conta desses apps, mas eu não estou aqui para criticar essas empresas já que uso elas justamente para fazer o que estou criticando, irônico não?</p>
+                <p>Eles... Eles são do mal de madrugada, sabe? </p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Você quer dormir? Eles acham que não, acham melhor fazer da sua casa uma pista de corrida, quando mais obstáculos, melhor...</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Você quer ir à algum lugar no escuro? Boa sorte, tem um monstro embaixo do sofá, esperaaando pra pegar seu pé... No caso o monstro é o Sr. Gatinho que tem garras afiadas e olhos brilhosos.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Mas e ir ao banheiro de noite? Ah, isso está tudo bem... Se ele não quiser entrar lá dentro pedindo carinho, obviamente. A verdade é que eles são anjos com chifres, rabo de demônio e auréola brilhosa, meio capeta-anjo... um anjopeta... ou um capetanjo?</p>
             </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>

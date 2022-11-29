@@ -7,17 +7,26 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Procrastinação</h1>
+            <h1 class="font-weight-bold mt-4 titulo">Ônibus</h1>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>ROBERTO LEITÃO</strong> Estudante</p>
+                <p class="text-light float-left"><strong>SARIA DORNELES</strong> Estudante</p>
                 <b class="text-muted float-right">29/11/2022 - 15:21</b>
             </div>
             <hr class="bg-light mt-4">
             <div class="paragrafo-artigo">
-                <p>Ai ai... Falar desse tema até cansa, provavelmente escrevi esse texto no último dia, e no último minuto que deu, só para ficar fazendo qualquer outra coisa, isso é algo que assusta muito a nossa sociedade atual, diversas pessoas sofrem de procrastinação, de sempre fazerem outras coisas ou demorar para fazer algo que é literalmente só ir e fazer, e não deixar para depois, deve ter algum estudo sobre isso, mas estou com preguiça de procurar isso, mas eu juro que deve ter.</p>
+                <p>Um dia cansativo e chuvoso, no horário de pico, pessoas cansadas aglomeradas na parada do ônibus para não se molharem, os ônibus indo e vindo, será que algum vai parar?</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>Provavelmente alguém deve estar cansado de ler até aqui justamente por ser um texto de mais de uma linha, mas eu entendo também sou assim, demoro para ler coisas assim ou as vezes nem leio, e o mundo todo está muito assim, a maioria das pessoas no mundo hoje em dia prefere assistir um tiktok, reels ou uns shorts porque são curtos e mais rápidos do que assistir um vídeo de 10 ou 15 minutos sobre um assunto, que pode ser importante, porque a maioria das vezes esse aplicativos fazem a gente procrastinar só pra assistir mais um vídeozinho de alguém fazendo alguma piada ou algo engraçado, acho que nossa sociedade deve ter muitas crises de procrastinação por conta desses apps, mas eu não estou aqui para criticar essas empresas já que uso elas justamente para fazer o que estou criticando, irônico não?</p>
+                <p>As pessoas embarcando com o desejo de chegar em casa, ver aquela pessoa que você está há quase uma semana sem ver, o animalzinho de estimação que está te esperando o dia inteiro, a mãe com saudade, é tão injusto quando alguém não chega para você...</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Durante a viagem, o ar abafado e o mal cheiro se alastram no ambiente, você não sabe se vai sair dali ou não, os minutos se tornam uma eternidade, as pessoas pressionadas uma contra as outras, desconfortáveis, cansadas, estressadas com o peso do dia a dia, almejando o conforto de sua casa. </p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>As pessoas entrando e saindo do ônibus finalmente diminuindo a aglomeração, a pessoa que está segurando peso consegue um lugar para se sentar, a que trabalhou o dia inteiro também consegue esse privilégio, as pessoas conseguem parar de se empurrar para passar, o mínimo de conforto surge.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>As portas do ônibus se abrem, todos saem e seguem seu próprio rumo, finalmente aquela aglomeração teve um fim, ou não, pois entravam cada vez mais gente naquele ônibus, e o ciclo se repete de pessoas indo e vindo.</p>
             </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>

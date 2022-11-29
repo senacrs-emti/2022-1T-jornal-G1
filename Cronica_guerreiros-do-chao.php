@@ -7,17 +7,26 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">Procrastinação</h1>
+            <h1 class="font-weight-bold mt-4 titulo">Guerreiros do chão</h1>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>ROBERTO LEITÃO</strong> Estudante</p>
-                <b class="text-muted float-right">29/11/2022 - 15:21</b>
+                <p class="text-light float-left"><strong>Christian Augustus</strong> Estudante</p>
+                <b class="text-muted float-right">29/11/2022 - 15:50</b>
             </div>
             <hr class="bg-light mt-4">
             <div class="paragrafo-artigo">
-                <p>Ai ai... Falar desse tema até cansa, provavelmente escrevi esse texto no último dia, e no último minuto que deu, só para ficar fazendo qualquer outra coisa, isso é algo que assusta muito a nossa sociedade atual, diversas pessoas sofrem de procrastinação, de sempre fazerem outras coisas ou demorar para fazer algo que é literalmente só ir e fazer, e não deixar para depois, deve ter algum estudo sobre isso, mas estou com preguiça de procurar isso, mas eu juro que deve ter.</p>
+                <p>Recentemente em meio a uma tarde chuvosa, reparei em um garoto de terno andando sem guarda-chuva, mas o que chamava a atenção eram os sapatos dele: o do lado esquerdo estava sem a sola, que se encontrava na sua mão.</p>
             </div>
             <div class="paragrafo-artigo">
-                <p>Provavelmente alguém deve estar cansado de ler até aqui justamente por ser um texto de mais de uma linha, mas eu entendo também sou assim, demoro para ler coisas assim ou as vezes nem leio, e o mundo todo está muito assim, a maioria das pessoas no mundo hoje em dia prefere assistir um tiktok, reels ou uns shorts porque são curtos e mais rápidos do que assistir um vídeo de 10 ou 15 minutos sobre um assunto, que pode ser importante, porque a maioria das vezes esse aplicativos fazem a gente procrastinar só pra assistir mais um vídeozinho de alguém fazendo alguma piada ou algo engraçado, acho que nossa sociedade deve ter muitas crises de procrastinação por conta desses apps, mas eu não estou aqui para criticar essas empresas já que uso elas justamente para fazer o que estou criticando, irônico não?</p>
+                <p>Em sua face era percebível tristeza, o que é intrigante, já que não parecia ser devido ao fato de caminhar debaixo da chuva, mas sim pelos seus sapatos.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Essa situação me deixou pensando enquanto encarava meus tênis, como damos pouco valor aos calçados, não cuidamos deles direito e normalmente até esquecemos deles nos nossos pés.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Sempre que lembramos dos nossos calçados é quando acontece algo com eles e normalmente já é nos piores casos, como a sola sair. Aí sim lembramos deles. As únicas ocasiões em que damos valor é quando são calçados novos, quando nos elogiam ou quando precisamos de algum certo par de calçados para um <i>look</i>.</p>
+            </div>
+            <div class="paragrafo-artigo">
+                <p>Atualmente eu decidi cuidar melhor e dar mais valor aos meus calçados, pois eles merecem mais atenção e também porque não quero passar pelo mesmo que aquele garoto; deve ter sido horrível andar na chuva sem a sola de um dos pés.</p>
             </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
