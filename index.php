@@ -51,25 +51,25 @@ include_once './includes/_header.php';
                     </button>
                 </div>
                 <div>
-                    <a href="./venda-dos-ingressos-lollapalooza-2023.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./Noticia_ingressos_lollapalooza23.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/lollapalooza-2023.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
                         </div>
                     </div></a>
-                    <a href="./feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira do tecnico</h5>
                         </div>
                     </div></a>
-                    <a href="./feira-experimental-de-ciencias-da-natureza-e-tecnologias-do-senac-distrito-criativo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb- border-0">
+                    <a href="./Noticia_feira-experimental-de-ciencias-da-natureza-e-tecnologias-do-senac-distrito-criativo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb- border-0">
                         <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Feira de ciencias</h5>
                         </div>
                     </div></a>
-                    <a href="./album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./Noticia_album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
                         <img src="./contents/album2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
                             <h5 class="card-title h5div">Album da copa</h5>
