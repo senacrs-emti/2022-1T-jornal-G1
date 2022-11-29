@@ -19,7 +19,7 @@ include_once './includes/_header.php';
             </div>
             <div class="imagem-artigo">
                 <img src="./contents/senacfrente.jpg" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                <p> Foto da fachada da escola Senac distrito criativo em Porto Alegre</p>
+                <p> Foto da fachada da escola Senac Distrito Criativo em Porto Alegre</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>A feira foi um sucesso e foi recebida por diversas pessoas, os visitantes tinham o papel de votar através de um QR CODE em qual experimento que mais tenha achado interessante, ou seja, o voto foi popular para saber quais grupos seriam os três primeiros ganhadores.</p>
@@ -40,7 +40,7 @@ include_once './includes/_header.php';
                 <p>O experimento foi realizado pelos alunos Henrique Lopes, Humberto e Rodrigo do 3º ano do turno matutino.</p>
                 <div class="imagem-artigo">
                     <img src="./contents/2lugarfeira.png" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                    <p> Foto da feira de ciências da escola Senac distrito criativo</p>
+                    <p> Foto da feira de ciências da escola Senac Distrito Criativo</p>
                 </div>
             </div>
             <div class="paragrafo-artigo">
@@ -48,7 +48,7 @@ include_once './includes/_header.php';
                 <p>O experimento foi realizado pelos alunos Ana, Thiago e Leonardo Campos do 3º ano do turno matutino.</p>
                 <div class="imagem-artigo">
                     <img src="./contents/1lugarfeira.png" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                    <p> Foto da feira de ciências da escola Senac distrito criativo</p>
+                    <p> Foto da feira de ciências da escola Senac Distrito Criativo</p>
                 </div>
             </div>
             <section class="semelhantes">
