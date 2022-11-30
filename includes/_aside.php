@@ -24,7 +24,7 @@
                         </a>
                         <h4 class="row A4_5">Entrevistas</h4>
                         <a class="text-light" href="">
-                        <li class="row pl-3">A vida de um Influenciador Digital</li>
+                        <li class="row pl-3" id="li2">A vida de um Influenciador Digital</li>
                         </a>
                         <a class="text-light" href="">
                         <li class="row pl-3" id="li2">XXXX (TEMA)</li>
