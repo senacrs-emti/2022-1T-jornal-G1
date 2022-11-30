@@ -8,52 +8,55 @@ include_once './includes/_header.php';
         <div class="row">
             <div class="col-12">
                 <div class="col-12 mb-2 mt-4">
-                    <h1 class="text-light ml-3">Notícias</h1>
-                    <hr>
-                <div>
-                    <a href="./Artigo_Cassinos_Online.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/cassinos.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Cassinos Online</h5>
+                    <section class="semelhantes">
+                    <h3 class="font-weight-bold mt-5 text-light">ARTIGOS DE OPINIÃO</h3>
+                    <hr class="bg-light">
+                    <div class="card mb-3 bg-transparent border-bottom">
+                        <div class="row no-gutters">
+                            <div class="col-3 col-lg-2">
+                                <img src="./contents/cassino.webp" alt="album2022" style="height: 120px; width: 120px;">
+                            </div>
+                            <div class="col-9 col-lg-10">
+                                <div class="card-body ml-4 mt-1">
+                                    <a href="./artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">A normalização de jogos de azar pode ser agora?</h5>
+                                        <b class="text-muted float-right mt-3">29/11/2022 - 14:36</b>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                    </div></a>
-                    <a href="./Artigo_Jogos_atualmente.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/games.jpg" class="card-img" alt="senac fachada">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Jogos Atualmente</h5>
+                    </div>
+                    <div class="card mb-3 bg-transparent border-bottom">
+                        <div class="row no-gutters">
+                            <div class="col-3 col-lg-2">
+                                <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            </div>
+                            <div class="col-9 col-lg-10">
+                                <div class="card-body ml-4 mt-1">
+                                    <a href="" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
+                                        <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                    </div></a>
-                    <a href="./Artigo_jogos_indies.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/jogosindies.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Jogos indies</h5>
+                    </div>
+                    <div class="card mb-3 bg-transparent border-bottom">
+                        <div class="row no-gutters">
+                            <div class="col-3 col-lg-2">
+                                <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            </div>
+                            <div class="col-9 col-lg-10">
+                                <div class="card-body ml-4 mt-1">
+                                    <a href="" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
+                                        <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
-                    </div></a>
-                    <a href="./Artigo_RockandRio_2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/RockandRio22.jpg" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Rock and Rio 2022</h5>
-                        </div>
-                    </div></a>
-                </div>
-                <div id="more">
-                <a href="./Artigo_Violencia_contra_a_mulher.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/200/300" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Violencia contra a Mulher</h5>
-                        </div>
-                    </div></a>
-                    <a href="#"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/200/300" class="card-img" alt="...">
-                        <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Notícias</h5>
-                        </div>
-                    </div></a>
-                    <span id="dots"></span>
-                </div>
-                <div class="text-center align-middle">
-                    <button onclick="loadmore()" id="myBtn" class="btn btn-primary col-4 col-lg-3 mt-5" type="submit" style="background-color: #B31254;">carregar mais</button>
-                </div>
+                    </div>
+                </section>
             </div>
         </div>
     </main>
