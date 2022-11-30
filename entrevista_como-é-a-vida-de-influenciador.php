@@ -18,8 +18,8 @@ include_once './includes/_header.php';
                 <p>Nesta sexta-feira, dia 18 de novembro, nossa equipe de entrevistadores conversou com Chris, ou Christian, um influenciador digital do Instagram, que fala sobre conteúdos voltados a cultura geek e nerd, com assuntos diversos, desde filmes sobre cinema, música, animes, ciência e muito mais outros assuntos. O influenciador tem cerca de dois mil seguidores e possuí um canal com um milhão de inscritos no YouTube. </p>
             </div>
             <div class="imagem-artigo">
-                <img src="https://picsum.photos/1000/500" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
+                <img src="./contents/Christian.jpg" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
+                <p>Foto tirada em um encontro de Chrisitan com seus amigos.</p>
             <div class="paragrafo-artigo">
                 <p>Nossa equipe quis fazer perguntas relacionadas a como ele acha que a internet pode influenciar escolhas, visões de mundo e sobre como pode ajudar as pessoas, sendo a primeira pergunta: como a internet pode influenciar nas pessoas? .</p>
             </div>

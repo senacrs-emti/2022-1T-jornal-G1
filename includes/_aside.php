@@ -23,7 +23,7 @@
                             <li class="row pl-3">Artigo do Gabriel</li>
                         </a>
                         <h4 class="row A4_5">Entrevistas</h4>
-                        <a class="text-light" href="">
+                        <a class="text-light" href="./entrevista_como-é-a-vida-de-influenciador.php">
                         <li class="row pl-3" id="li2">A vida de um Influenciador Digital</li>
                         </a>
                         <a class="text-light" href="">
