@@ -7,7 +7,7 @@ include_once './includes/_header.php';
 <main class="container col-12 col-lg-8 text-light">
     <div class="row col-12">
         <div class="col-12">
-            <h1 class="font-weight-bold mt-4 titulo">A NORMALIZAÇÃO DE JOGOS DE azar pode ser agora?</h1>
+            <h1 class="font-weight-bold mt-4 titulo">A normalização de jogos de azar pode ser agora?</h1>
             <h6 class="font-weight-normal subtitulo">Os famosos jogos de azar ou cassinos estão se tornando cada vez mais e mais apresentados em jogos e na vida real como sistemas inofensivos</h6>
             <div class="pt-4">
                 <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Estudante</p>
@@ -21,8 +21,8 @@ include_once './includes/_header.php';
                 <p>Os jogos de azar são como caça-níqueis, são sistemas que se utilizam como base a Aleatoriedade para poder definir uma recompensa que pode ou não valer o valor que foi pago à máquina. Estes sistemas, são a parte mais básica de um Cassino, um lugar onde o Azar é a única certeza de lá. Cada vez mais é aparente em jogos como - <strong>Genshin Impact, Honkai Impact, Star wars Battlefront, Battlefield e Call of Duty Black Ops 4</strong> a aparição destes sistemas, escondendo partes-chave do jogo atrás de “paredes monetárias”, onde normalmente o único objetivo desses jogos de azar é arrecadar dinheiro. A principal ferramenta destes jogos de azar, pelo menos online, são as <strong>Loot Boxes</strong>, uma ferramenta que esconde itens do jogo atrás de uma porcentagem de <strong>DropChance</strong>.</p>
             </div>
             <div class="imagem-artigo">
-                <img src="https://picsum.photos/1000/500" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
+                <img src="./contents/cassino.webp" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
+                <p>Foto retirada do site da CNN</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Não são só apenas nos jogos que temos problemas com estes sistemas de cassino, os mesmos sistemas também foram quase legalizados no Brasil!</p>
