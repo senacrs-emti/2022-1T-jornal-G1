@@ -22,10 +22,6 @@ include_once './includes/_header.php';
             <div class="paragrafo-artigo">
                 <p>É importante que a sociedade entenda que esse tipo de crime não pode ser tolerado, é necessário que as pessoas compreendam a gravidade do problema, pois precisamos do poder do público para o combate à violência, reforçando e construindo cada vez mais projetos, como casas de acolhimento, serviços de proteções reunindo dados que mostrem a raiz da violência para permitir intervenções diretas nessas causas. Necessitamos apoiar as mulheres que sofrem ou já sofreram qualquer tipo de violência, para que elas não se sintam sozinhas, precisamos dar voz para essas pessoas.</p>
             </div>
-            <div class="imagem-artigo">
-                <img src="./contents/imgcinza.jpg" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
-            </div>
             <section class="semelhantes">
                 <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
                 <hr class="bg-light">

@@ -8,7 +8,7 @@ include_once './includes/_header.php';
     <div class="row col-12">
         <div class="col-12">
             <h1 class="font-weight-bold mt-4 titulo">Feira técnica do Senac - saiba tudo</h1>
-            <h6 class="font-weight-normal subtitulo">Uma feira especial da escola de E.M Senac Distrito Criativo para apresentar trabalhos feitos pelos alunos</h6>
+            <h6 class="font-weight-normal subtitulo">Uma feira especial da escola de ensino médio Senac Distrito Criativo para apresentar trabalhos feitos pelos alunos</h6>
             <div class="pt-4">
                 <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Cursando</p>
                 <b class="text-muted float-right">23/11/2022 - 14:46</b>
@@ -17,9 +17,9 @@ include_once './includes/_header.php';
             <div class="paragrafo-artigo">
                 <p>Neste sábado, dia 03/12 acontecerá um grande evento de tecnologias e informática na escola de Ensino Médio Senac Distrito Criativo. O evento será composto de vários trabalhos e projetos feitos pelos alunos talentosos do Senac e será totalmente aberto para o público para se divertirem com as produções dos alunos, além de aprender um pouco mais sobre outras linguagens de computação e novos conceitos apresentados pelos mesmos!</p>
             </div>
-            <div class="imagem-artigo">
-                <img src="./contents/senacfrente.jpg" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                <p> Foto da fachada da escola Senac Distrito Criativo em Porto Alegre</p>
+            <div class="imagem-artigo text-center">
+                <img src="./contents/feiraTecnico.jpg" alt="Convite do evento" class="w-50 mb-2 mt-2 imgLolla1">
+                <p>Foto do convite de divulgação do evento</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Estarão participando todas as turmas da escola, sendo as turmas de primeiro ao terceiro ano do ensino médio. Todos os projetos serão organizados de acordo com os andares do prédio da Escola, então se quiser checar todos os projetos, passe de andar em andar e não de elevador!</p>

@@ -21,7 +21,7 @@ include_once './includes/_header.php';
                 <p>Os jogos de azar são como caça-níqueis, são sistemas que se utilizam como base a Aleatoriedade para poder definir uma recompensa que pode ou não valer o valor que foi pago à máquina. Estes sistemas, são a parte mais básica de um Cassino, um lugar onde o Azar é a única certeza de lá. Cada vez mais é aparente em jogos como - <strong>Genshin Impact, Honkai Impact, Star wars Battlefront, Battlefield e Call of Duty Black Ops 4</strong> a aparição destes sistemas, escondendo partes-chave do jogo atrás de “paredes monetárias”, onde normalmente o único objetivo desses jogos de azar é arrecadar dinheiro. A principal ferramenta destes jogos de azar, pelo menos online, são as <strong>Loot Boxes</strong>, uma ferramenta que esconde itens do jogo atrás de uma porcentagem de <strong>DropChance</strong>.</p>
             </div>
             <div class="imagem-artigo">
-                <img src="./contents/cassino.webp" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
+                <img src="./contents/cassino.webp" alt="maquinas de cassino" class="w-100 mb-2 mt-2 imgLolla1">
                 <p>Foto retirada do site da CNN</p>
             </div>
             <div class="paragrafo-artigo">

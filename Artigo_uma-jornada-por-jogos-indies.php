@@ -16,7 +16,7 @@ include_once './includes/_header.php';
             <hr class="bg-light mt-4">
             <div class="imagem-artigo">
                 <img src="./contents/jogosindies.jpg" alt="jogos indies" class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Jogos indies(da esquerda para direita:Hollow knight, untitled goose, celeste, cuphead, undertale, shovel knight)</p>
+                <p>Jogos indies(da esquerda para direita: Hollow Knight, Untitled Goose, Celeste, Cuphead, Undertale e Shovel Knight)</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>O que são jogos indies? Jogos indies são basicamente jogos independentes, feitos por uma pessoa ou por uma pequena desenvolvedora, geralmente feitos com pouco orçamento. Esses jogos estão sendo feitos todos os dias por pessoas que querem aprender mais sobre programação ou para fazer seu primeiro pequeno sucesso, nessa indústria de jogos alguns jogos indies já tiveram muito sucesso e hoje em dia são considerados grandes jogos que provavelmente já foram vendidas para outra grande empresa ou atualmente é uma grande empresa de jogos, temos um grande exemplo que é o famoso jogo chamado “Minecraft”.</p>
@@ -28,8 +28,8 @@ include_once './includes/_header.php';
                 <p>Hoje em dia a maioria das pessoas procuram um jogo AAA, o antônimo de jogos indies, isto é, jogos feitos por grandes empresas com orçamentos imensos, por questões de terem certeza que sairá um ótimo jogo e que não vão estar jogando dinheiro em algo jogado por poucas pessoas e que não tem certeza que seja bom, claro não digo para sair comprando todo jogo indie para ajudar pequenas empresas a crescer, mas para as vezes verem sobre jogos indies que te interessam para ajudar essa pequenas empresas, e principalmente criadores de conteúdo.</p>
             </div>
             <div class="imagem-artigo">
-                <img src="./contents/jogosindies.jpg" alt="jogos indies" class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Jogos indies(da esquerda para direita:Hollow knight, untitled goose, celeste, cuphead, undertale, shovel knight)</p>
+                <img src="./contents/jogosindies2.jpg" alt="jogos indies" class="w-100 mb-2 mt-2 imgLolla1">
+                <p>Jogos indies(da esquerda para direita: Dead Cells, Journey e Hyper Light Drifter)</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Mostrem jogos pequenos, pois isso ajudará muito esse tipo de desenvolvedores, fazendo isso talvez uma pequena empresa que tem um ótimo jogo, mas por falta de propagandas e marketing não chegaram em um certo grupo de pessoas que pode se apaixonar pelo jogo. Eu acho que jogos indies tem um ótimo potencial principalmente por vir de pequenas empresas que querem crescer no mercado e não lucrar horrores vendendo cosméticos e itens por um preço altíssimo, esses exemplos dados no artigo são um ótimo exemplo que isso é uma verdade.</p>

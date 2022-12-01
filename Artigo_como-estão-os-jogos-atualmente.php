@@ -14,8 +14,8 @@ include_once './includes/_header.php';
             </div>
             <hr class="bg-light mt-4">
             <div class="imagem-artigo">
-                <img src="https://picsum.photos/1000/500" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, possimus sit excepturi culpa impedit.</p>
+                <img src="./contents/jogosAtualmente.jpg" alt="Jogos eletronicos" class="w-100 mb-2 mt-2 imgLolla1">
+                <p>Imagem retirada do site da UOL</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Conforme os anos vêm passando, diversos jogos foram criados, alguns sendo de alta qualidade, como Elden Ring, e outros que apenas prometeram muito, como Marvel’s Avengers. Um problema que vem acontecendo e várias pessoas reclamam é a piora dos jogos com o decorrer dos anos, o que pode ser facilmente percebido a partir de um grupo, que, mesmo tendo diversos jogos em comum, não consegue decidir o que jogar.</p>

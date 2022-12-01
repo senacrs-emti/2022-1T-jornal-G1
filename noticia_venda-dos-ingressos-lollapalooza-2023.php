@@ -15,7 +15,7 @@ include_once './includes/_header.php';
             </div>
             <hr class="bg-light mt-4">
             <div class="imagem-artigo">
-                <img src="contents/lollapalooza-2023.jpg" alt="lollapalooza" class="w-100 mb-2 mt-2 imgLolla1">
+                <img src="contents/lollapalooza-2022.jpg" alt="lollapalooza" class="w-100 mb-2 mt-2 imgLolla1">
                 <p> Foto tirada do evento Lollapalooza de 2022</p>
             </div>
             <div class="paragrafo-artigo">
@@ -26,7 +26,7 @@ include_once './includes/_header.php';
             </div>
             <div class="imagem-artigo">
                 <img src="contents/lollashows.jpg" alt="lollapalooza-shows" class="w-100 mb-2 imgLolla2">
-                <p>Cartaz dos shows que teram no Lollapalooza 2023</p>
+                <p>Cartaz dos shows que terão no Lollapalooza 2023</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>E na parte dos shows podemos perceber que a lista está enorme, com muitos artistas que são fenômenos hoje em dia como Billie Eilish, Lil Nas X, Rosália, Blink-182, Tame Impala, Cigarettes after sex, Drake e muitos outros. Os shows prometem muito e estão todos ansiosos para este evento, já que, como mencionado anteriormente, é um dos maiores eventos de São Paulo e desta vez promete muito a ter os melhores shows.</p>

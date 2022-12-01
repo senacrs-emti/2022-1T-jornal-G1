@@ -45,6 +45,10 @@ main{
 .semelhantes{
     font-weight: 300;
 }
+.editoriaIMG{
+    width: 100%;
+    height: 120px;
+}
 @media only screen and (max-width: 600px) {
 
     .titulo{

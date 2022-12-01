@@ -18,8 +18,8 @@ include_once './includes/_header.php';
                 <p>No dia 03 de setembro de 2022 aconteceu a primeira feira experimental do Senac que para a surpresa de todos, a feira recebeu visitantes, devido ao período conturbado passado nos anos anteriores, com o dever e a necessidade de ficar em casa e se proteger contra a Covid-19, não foi possível ter recebido pessoas de fora para prestigiar dos experimentos. A feira foi preparada pelos alunos do Ensino Médio com a ajuda dos professores, com muita dedicação, foram apresentados 41 projetos ao todo, teve início das 09:00 horas da manhã até 12:30.</p>
             </div>
             <div class="imagem-artigo">
-                <img src="./contents/senacfrente.jpg" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
-                <p> Foto da fachada da escola Senac Distrito Criativo em Porto Alegre</p>
+                <img src="./contents/feiradeciencias.jpg" alt="fachada-senac-distrito-criativo" class="w-100 mb-2 mt-2 imgLolla1">
+                <p>Foto do convite de divulgação do evento</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>A feira foi um sucesso e foi recebida por diversas pessoas, os visitantes tinham o papel de votar através de um QR CODE em qual experimento que mais tenha achado interessante, ou seja, o voto foi popular para saber quais grupos seriam os três primeiros ganhadores.</p>
