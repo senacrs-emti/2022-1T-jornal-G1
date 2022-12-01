@@ -9,10 +9,10 @@ include_once './includes/_header.php';
         <div class="row col-12">
             <div class="col-12">
                 <div class="col-12 mb-2 mt-4">
-                    <h1 class="text-light">Menu</h1>
+                    <h1 class="text-light">HOME</h1>
                     <hr>
                 </div>
-                <div id="carouselExampleCaptions" class="carousel slide col-12 mb-4" data-ride="carousel">
+                <div id="carouselExampleCaptions" class="carousel slide col-12 mb-5" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
@@ -20,24 +20,24 @@ include_once './includes/_header.php';
                     </ol>
                     <div class="carousel-inner carall" >
                         <div class="carousel-item active">
-                        <a href="./Artigo_jogos_indies.php"><img class="cardcar" src="./contents/jogosindies.jpg" class="d-block w-100" alt="...">
+                        <a href="./Artigo_uma-jornada-por-jogos-indies.php"><img class="cardcar" src="./contents/jogosindies.jpg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block shadow">
-                                <h5>Jogos indies</h5>
-                                <p>Jogos são algo extremamente consumido e lucrativo nos dias de hoje, mas voçê sabe o que são jogos indies?</p>
+                                <h5 class="carousel-shadow">Uma jornada por jogos indies</h5>
+                                <b style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
                             </div>
                         </div></a>
                         <div class="carousel-item">
-                            <a href=""><img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <a href="./Cronica_procrastinacao.php"><img class="cardcar" src="./contents/procrastinacao.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block shadow">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <h5 class="carousel-shadow">Procrastinação</h5>
+                                <b style="color: #FF0D70;">CRÔNICA</b>
                             </div></a>
                         </div>
                         <div class="carousel-item">
-                            <a href=""><img class="cardcar" src="https://picsum.photos/1000/400" class="d-block w-100" alt="...">
+                            <a href="./noticia_copa-mundo-2022-no-catar.php"><img class="cardcar" src="./contents/copaCatar.jpeg" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block shadow">
-                                <h5>Lorem Ipsum Dolor</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <h5 class="carousel-shadow">Copa do Mundo 2022 no Catar</h5>
+                                <b style="color: #FF0D70;">NOTÍCIA</b>
                             </div></a>
                         </div>
                     </div>
@@ -51,42 +51,48 @@ include_once './includes/_header.php';
                     </button>
                 </div>
                 <div>
-                    <a href="./Noticia_ingressos_lollapalooza23.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
+                    <a href="./noticia_venda-dos-ingressos-lollapalooza-2023.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
                         <img src="./contents/lollapalooza-2022.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Ingressos Lollapalooza</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">NOTÍCIA</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Venda dos ingressos Lollapalooza 2023</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="senac fachada">
+                    <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
+                        <img src="./contents/feiraTecnico.jpg" class="card-img" alt="senac fachada">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Feira do técnico</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">NOTÍCIA</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Feira técnica do Senac - saiba tudo</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_feira-experimental-de-ciencias-da-natureza-e-tecnologias-do-senac-distrito-criativo.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb- border-0">
-                        <img src="./contents/senacfrente.jpg" class="card-img" alt="...">
+                    <a href="./Cronica_gatos-de-madrugada.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
+                        <img src="./contents/gatosMadrugada.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Feira de ciências</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">CRÔNICA</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Gatos de madrugada</h5>
                         </div>
                     </div></a>
-                    <a href="./Noticia_album-da-copa-2022-e-seu-enorme-sucesso.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="./contents/album2022.jpg" class="card-img" alt="...">
+                    <a href="./Artigo_violencia-contra-a-mulher.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
+                        <img src="./contents/violenciaMulher.jpeg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Albúm da copa</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Violência Contra a Mulher</h5>
                         </div>
                     </div></a>
                 </div>
                 <div id="more">
-                <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                    <a href="./Artigo_rock-in-rio-2022.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
+                        <img src="./contents/RockandRio22.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Rock in Rio 2022</h5>
                         </div>
                     </div></a>
-                    <a href=""><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-4 border-0">
-                        <img src="https://picsum.photos/1000/500" class="card-img" alt="...">
+                    <a href="./Entrevista_como-é-a-vida-de-influenciador.php"><div class="card bg-transparent  text-white col-12 col-lg-6 float-left mb-5 border-0">
+                        <img src="./contents/influenciador.jpg" class="card-img" alt="...">
                         <div class="card-img-overlay">
-                            <h5 class="card-title h5div">Lorem Ipsum Dolor</h5>
+                            <b class="ml-3 mr-3" style="color: #FF0D70;">ENTREVISTA</b>
+                            <h5 class="card-title h5div ml-3 mr-3">Como é a vida de influenciador?</h5>
                         </div>
                     </div></a>
                     <span id="dots"></span>

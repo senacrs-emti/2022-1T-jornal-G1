@@ -14,43 +14,13 @@ include_once './includes/_header.php';
                     <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                         <div class="row no-gutters">
                             <div class="col-3 col-lg-2">
-                                <img src="./contents/cassino.webp" alt="maquinas de cassino" class="editoriaIMG">
+                                <img src="./contents/violenciaMulher.jpeg" alt="Violencia contra a mulher" class="editoriaIMG">
                             </div>
                             <div class="col-9 col-lg-10">
                                 <div class="card-body ml-4 mt-1">
-                                    <a href="./artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php" class="text-light">
-                                        <h5 class="card-title font-weight-bold h5-outras">A normalização de jogos de azar pode ser agora?</h5>
-                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:36</b>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
-                        <div class="row no-gutters">
-                            <div class="col-3 col-lg-2">
-                                <img src="./contents/jogosEArtigos.webp" alt="Jogos eletronicos" class="editoriaIMG">
-                            </div>
-                            <div class="col-9 col-lg-10">
-                                <div class="card-body ml-4 mt-1">
-                                    <a href="./Artigo_como-estão-os-jogos-atualmente.php" class="text-light">
-                                        <h5 class="card-title font-weight-bold h5-outras">Como estão os jogos atualmente</h5>
-                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:52</b>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
-                        <div class="row no-gutters">
-                            <div class="col-3 col-lg-2">
-                                <img src="./contents/jogosindies.jpg" alt="Jogos Indies" class="editoriaIMG">
-                            </div>
-                            <div class="col-9 col-lg-10">
-                                <div class="card-body ml-4 mt-1">
-                                    <a href="./Artigo_uma-jornada-por-jogos-indies.php" class="text-light">
-                                        <h5 class="card-title font-weight-bold h5-outras">Uma jornada por jogos indies</h5>
-                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:05</b>
+                                    <a href="./Artigo_violencia-contra-a-mulher.php" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">Violência Contra a Mulher</h5>
+                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:21</b>
                                     </a>
                                 </div>
                             </div>
@@ -74,13 +44,43 @@ include_once './includes/_header.php';
                     <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                         <div class="row no-gutters">
                             <div class="col-3 col-lg-2">
-                                <img src="./contents/violenciaMulher.jpeg" alt="Violencia contra a mulher" class="editoriaIMG">
+                                <img src="./contents/jogosindies.jpg" alt="Jogos Indies" class="editoriaIMG">
                             </div>
                             <div class="col-9 col-lg-10">
                                 <div class="card-body ml-4 mt-1">
-                                    <a href="./Artigo_violencia-contra-a-mulher.php" class="text-light">
-                                        <h5 class="card-title font-weight-bold h5-outras">Violência Contra a Mulher</h5>
-                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:21</b>
+                                    <a href="./Artigo_uma-jornada-por-jogos-indies.php" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">Uma jornada por jogos indies</h5>
+                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:05</b>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
+                        <div class="row no-gutters">
+                            <div class="col-3 col-lg-2">
+                                <img src="./contents/jogosEArtigos.webp" alt="Jogos eletronicos" class="editoriaIMG">
+                            </div>
+                            <div class="col-9 col-lg-10">
+                                <div class="card-body ml-4 mt-1">
+                                    <a href="./Artigo_como-estão-os-jogos-atualmente.php" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">Como estão os jogos atualmente</h5>
+                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:52</b>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
+                        <div class="row no-gutters">
+                            <div class="col-3 col-lg-2">
+                                <img src="./contents/cassino.webp" alt="maquinas de cassino" class="editoriaIMG">
+                            </div>
+                            <div class="col-9 col-lg-10">
+                                <div class="card-body ml-4 mt-1">
+                                    <a href="./artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php" class="text-light">
+                                        <h5 class="card-title font-weight-bold h5-outras">A normalização de jogos de azar pode ser agora?</h5>
+                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:36</b>
                                     </a>
                                 </div>
                             </div>

@@ -10,7 +10,7 @@ include_once './includes/_header.php';
             <h1 class="font-weight-bold mt-4 titulo">Venda dos ingressos Lollapalooza 2023</h1>
             <h6 class="font-weight-normal subtitulo">Está disponível a compra dos ingressos para o evento que ocorrerá no ano que vem</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>RAUL RODRIGUES</strong> Cursando</p>
+                <p class="text-light float-left"><strong>RAUL RODRIGUES</strong> Estudante</p>
                 <b class="text-muted float-right">22/11/2022 - 14:30</b>
             </div>
             <hr class="bg-light mt-4">

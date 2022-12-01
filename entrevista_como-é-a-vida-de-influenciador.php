@@ -10,7 +10,7 @@ include_once './includes/_header.php';
             <h1 class="font-weight-bold mt-4 titulo">Como é a vida de influenciador?</h1>
             <h6 class="font-weight-normal subtitulo">Nessa entrevista o influenciador e youtuber Christian Augustus fala sobre aspectos da sua profissão.</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>RAUL RODRIGUES ALMEIDA</strong> Estudante</p>
+                <p class="text-light float-left"><strong>RAUL RODRIGUES</strong> Estudante</p>
                 <b class="text-muted float-right">29/11/2022 - 14:36</b>
             </div>
             <hr class="bg-light mt-4">
@@ -19,7 +19,7 @@ include_once './includes/_header.php';
             </div>
             <div class="imagem-artigo">
                 <img src="./contents/Christian.jpg" alt="..." class="w-100 mb-2 mt-2 imgLolla1">
-                <p>Foto tirada em um encontro de Chrisitan com seus amigos.</p>
+                <p>Foto tirada em um encontro de Christian com seus amigos.</p>
             </div>
             <div class="paragrafo-artigo">
                 <p>Nossa equipe quis fazer perguntas relacionadas a como ele acha que a internet pode influenciar escolhas, visões de mundo e sobre como pode ajudar as pessoas, sendo a primeira pergunta: como a internet pode influenciar as pessoas?</p>

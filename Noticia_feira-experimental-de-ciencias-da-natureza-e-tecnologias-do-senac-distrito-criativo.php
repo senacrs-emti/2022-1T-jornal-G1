@@ -10,7 +10,7 @@ include_once './includes/_header.php';
             <h1 class="font-weight-bold mt-4 titulo">Feira Experimental de Ciências da Natureza e Tecnologias do Senac Distrito Criativo</h1>
             <h6 class="font-weight-normal subtitulo">Primeira feira de ciências do Senac Distrito Criativo que recebeu visitantes para apreciar os projetos feitos pelos alunos</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>SARIA DORNELES</strong> Cursando</p>
+                <p class="text-light float-left"><strong>SARIA DORNELES</strong> Estudante</p>
                 <b class="text-muted float-right">23/11/2022 - 15:07</b>
             </div>
             <hr class="bg-light mt-4">

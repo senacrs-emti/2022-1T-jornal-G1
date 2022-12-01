@@ -40,26 +40,22 @@
                 <a class="nav-link text-light" href="./editoria.php">Editoria</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="./Noticia.php">Notícias</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="#">Entrevistas</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="#">Charges</a>
+                <a class="nav-link text-light" href="https://www.senacrs.com.br">Senac-RS</a>
               </li>
           </div>
         </div>
         <div class="">
           <div class="col-12 col-lg-8">
             <div class="mheader col-8 logoCel">
-              <a href="./index.php"><div class="text-center mb-2 mt-2" id="logo">
-                <img id="logoimg" src="assets/img/logoNoN.png" alt="logo">
-              </div></a>
+              <a href="./index.php">
+                <div class=" mb-2 mt-2" id="logo">
+                  <img class="mr-3" id="logoimg" src="assets/img/logoNoN.png" alt="logo">
+                </div>
+              </a>
             </div>
           </div>
         </div>
-        <hr>
+        <hr class="del">
         <div class="col-12 col-lg-4">
           <form class="form-inline my-2 my-lg-0 text-right">
             <input class="form-control col-8 mr-1 mr-lg-2 bg btn-outline-white" type="search" placeholder="Pesquisar" aria-label="Search">

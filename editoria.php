@@ -8,7 +8,7 @@ include_once './includes/_header.php';
         <div class="row col-12">
             <div class="col-12">
                 <div class="col-12 mb-2 mt-4">
-                    <h1 class="text-light">EDITORIAL</h1>
+                    <h1 class="text-light">EDITORIA</h1>
                     <hr>
                 </div>
                 <div>

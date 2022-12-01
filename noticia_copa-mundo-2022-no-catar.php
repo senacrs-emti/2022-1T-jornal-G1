@@ -10,7 +10,7 @@ include_once './includes/_header.php';
             <h1 class="font-weight-bold mt-4 titulo">Copa do Mundo 2022 no Catar</h1>
             <h6 class="font-weight-normal subtitulo">Após quatro anos de espera a copa do mundo da FIFA volta em 2022 sendo sediada no Catar.</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>ROBERTO M.LEITÃO</strong> Cursando</p>
+                <p class="text-light float-left"><strong>ROBERTO LEITÃO</strong> Estudante</p>
                 <b class="text-muted float-right">23/11/2022 - 15:08</b>
             </div>
             <hr class="bg-light mt-4">

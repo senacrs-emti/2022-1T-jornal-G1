@@ -35,48 +35,51 @@ include_once './includes/_header.php';
                 <p>Estes pontos parecem bons em curto prazo, mas o problema é que as pessoas viciam demais em jogos de azar, basicamente fazendo as mesmas pessoas perderem grande parte de sua vida dentro dos Cassinos. Não devemos apoiar estes jogos de azar sendo eles pequenos ou grandes, pois é extremamente prejudicial esconder itens ou progressões essenciais de um jogo, ou dando falsas promessas de mais dinheiro na vida real.</p>
             </div>
             <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
+                <h3 class="font-weight-bold mt-5">OUTROS ARTIGOS DE OPINIÃO</h3>
                 <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/jogosindies.jpg" alt="Jogos Indies" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Artigo_uma-jornada-por-jogos-indies.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Uma jornada por jogos indies</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:05</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/violenciaMulher.jpeg" alt="Violencia contra a mulher" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Artigo_violencia-contra-a-mulher.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Violência Contra a Mulher</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>    
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:21</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/RockandRio22.jpg" alt="Palco do rock in rio" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Artigo_rock-in-rio-2022.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Rock in Rio 2022</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:14</b>
                                 </a>
                             </div>
                         </div>

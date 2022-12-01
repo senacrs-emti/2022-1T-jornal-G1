@@ -10,7 +10,7 @@ include_once './includes/_header.php';
             <h1 class="font-weight-bold mt-4 titulo">Feira técnica do Senac - saiba tudo</h1>
             <h6 class="font-weight-normal subtitulo">Uma feira especial da escola de ensino médio Senac Distrito Criativo para apresentar trabalhos feitos pelos alunos</h6>
             <div class="pt-4">
-                <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Cursando</p>
+                <p class="text-light float-left"><strong>SAMUEL SOARES</strong> Estudante</p>
                 <b class="text-muted float-right">23/11/2022 - 14:46</b>
             </div>
             <hr class="bg-light mt-4">

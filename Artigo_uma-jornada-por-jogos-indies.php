@@ -35,48 +35,51 @@ include_once './includes/_header.php';
                 <p>Mostrem jogos pequenos, pois isso ajudará muito esse tipo de desenvolvedores, fazendo isso talvez uma pequena empresa que tem um ótimo jogo, mas por falta de propagandas e marketing não chegaram em um certo grupo de pessoas que pode se apaixonar pelo jogo. Eu acho que jogos indies tem um ótimo potencial principalmente por vir de pequenas empresas que querem crescer no mercado e não lucrar horrores vendendo cosméticos e itens por um preço altíssimo, esses exemplos dados no artigo são um ótimo exemplo que isso é uma verdade.</p>
             </div>
             <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
+                <h3 class="font-weight-bold mt-5">OUTROS ARTIGOS DE OPINIÃO</h3>
                 <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/jogosEArtigos.webp" alt="Jogos eletronicos" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Artigo_como-estão-os-jogos-atualmente.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Como estão os jogos atualmente</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:52</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/RockandRio22.jpg" alt="Palco do rock in rio" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Artigo_rock-in-rio-2022.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Rock in Rio 2022</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:14</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/cassino.webp" alt="maquinas de cassino" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./artigo_a-normalização-de-jogos-de-azar-pode-ser-agora.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">A normalização de jogos de azar pode ser agora?</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">ARTIGO DE OPINIÃO</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 14:36</b>
                                 </a>
                             </div>
                         </div>
