@@ -32,48 +32,51 @@ include_once './includes/_header.php';
                 <p>Mas e ir ao banheiro de noite? Ah, isso está tudo bem... Se ele não quiser entrar lá dentro pedindo carinho, obviamente. A verdade é que eles são anjos com chifres, rabo de demônio e auréola brilhosa, meio capeta-anjo... um anjopeta... ou um capetanjo?</p>
             </div>
             <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
+                <h3 class="font-weight-bold mt-5">OUTRAS CRÔNICAS</h3>
                 <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/silencio.jpg" alt="Violencia contra a mulher" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Cronica_silencio.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Silêncio</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">CRÔNICA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 16:19</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/onibus.jpg" alt="Jogos Indies" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Cronica_onibus.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Ônibus</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">CRÔNICA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:21</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/guerreirosChao.jpg" alt="Jogos eletronicos" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Cronica_guerreiros-do-chao.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Guerreiros do chão</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">CRÔNICA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:50</b>
                                 </a>
                             </div>
                         </div>

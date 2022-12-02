@@ -1,8 +1,15 @@
     <aside class="col-12 col-lg-4">
         <div class="row">
             <div class="col-12">
+                <section class="col-12 text-light mt-4 mb-5">
+                    <h4 class="A4 mb-4 text-center">Leia nossa primeira entrevista!</h4>
+                    <ul class="col-12">
+                        <a class="text-light" href="./Entrevista_como-é-a-vida-de-influenciador.php">
+                            <li class="row pt-2 pb-2 mb-4 mx-auto justify-content-center">Como é a vida de influenciador?</li>
+                        </a>
+                </section>
                 <section class="col-12 text-light mt-4">
-                    <h4 class="A4 mb-5 text-center">Artigos de opinião</h4>
+                    <h4 class="A4 mb-4 text-center">Artigos de opinião</h4>
                     <ul class="col-12">
                         <a class="text-light" href="./Artigo_uma-jornada-por-jogos-indies.php">
                             <li class="row pt-2 pb-2 mb-4 mx-auto justify-content-center">Uma jornada por jogos indies</li>

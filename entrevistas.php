@@ -26,21 +26,6 @@ include_once './includes/_header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
-                        <div class="row no-gutters">
-                            <div class="col-3 col-lg-2">
-                                <img src="./contents/guerreirosChao.jpg" alt="Jogos eletronicos" class="editoriaIMG">
-                            </div>
-                            <div class="col-9 col-lg-10">
-                                <div class="card-body ml-4 mt-1">
-                                    <a href="./Cronica_guerreiros-do-chao.php" class="text-light">
-                                        <h5 class="card-title font-weight-bold h5-outras">Guerreiros do chão</h5>
-                                        <b class="text-muted float-right mt-3 mr-4 mr-lg-0">29/11/2022 - 15:50</b>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </section>
             </div>
         </div>

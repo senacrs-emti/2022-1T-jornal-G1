@@ -51,55 +51,6 @@ include_once './includes/_header.php';
             <div class="paragrafo-artigo">
                 <p>- A minha dica é simples, pois assim como para qualquer coisa que você vá fazer na sua vida, você precisa de dedicação, precisa tentar, estudar, ler sobre e ir tentando até conseguir seu objetivo, a vida é feita de erros e erros até o momento em que você acerta o objetivo, então não desista e persista no seu sonho, pois assim você conseguirá criar sua própria história e ser feliz com o que conseguiu. </p>
             </div>
-            <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
-                <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
-                    <div class="row no-gutters">
-                        <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
-                        </div>
-                        <div class="col-9 col-lg-10">
-                            <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mb-3 bg-transparent border-bottom">
-                    <div class="row no-gutters">
-                        <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
-                        </div>
-                        <div class="col-9 col-lg-10">
-                            <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mb-3 bg-transparent border-bottom">
-                    <div class="row no-gutters">
-                        <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
-                        </div>
-                        <div class="col-9 col-lg-10">
-                            <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </div>
     </div>
 </main>

@@ -62,48 +62,51 @@ include_once './includes/_header.php';
                 <p>Para quem está cheio de figurinhas repetidas existem vários pontos de encontros em praças, shoppings, parques, bares, entre outros lugares. E você que ainda não entrou na onda e está com medo de estar sem tempo, não se preocupe, pois, o álbum deve circular até o fim da Copa, que está prevista para começar dia 20 de novembro e terminar 18 de dezembro.</p>
             </div>
             <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
+                <h3 class="font-weight-bold mt-5">OUTRAS NOTÍCIAS</h3>
                 <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/copaCatar.jpeg" alt="Copa do mundo 2022" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./noticia_copa-mundo-2022-no-catar.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Copa do Mundo 2022 no Catar</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-3 mb-2 mr-4 mr-lg-0">23/11/2022 - 15:08</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/lollapalooza-2022.jpg" alt="Lollapalooza 2022" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./noticia_venda-dos-ingressos-lollapalooza-2023.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Venda dos ingressos Lollapalooza 2023</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">22/11/2022 - 14:30</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/feiraTecnico.jpg" alt="Feira técnica do Senac" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Feira técnica do Senac - saiba tudo</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">23/11/2022 - 14:46</b>
                                 </a>
                             </div>
                         </div>

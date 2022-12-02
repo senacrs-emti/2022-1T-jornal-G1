@@ -32,48 +32,51 @@ include_once './includes/_header.php';
                 <p>E na parte dos shows podemos perceber que a lista está enorme, com muitos artistas que são fenômenos hoje em dia como Billie Eilish, Lil Nas X, Rosália, Blink-182, Tame Impala, Cigarettes after sex, Drake e muitos outros. Os shows prometem muito e estão todos ansiosos para este evento, já que, como mencionado anteriormente, é um dos maiores eventos de São Paulo e desta vez promete muito a ter os melhores shows.</p>
             </div>
             <section class="semelhantes">
-                <h3 class="font-weight-bold mt-5">NOTÍCIAS SEMELHANTES</h3>
+                <h3 class="font-weight-bold mt-5">OUTRAS NOTÍCIAS</h3>
                 <hr class="bg-light">
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/album2022.jpg" alt="Album da copa 2022" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Noticia_album-da-copa-2022-e-seu-enorme-sucesso.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Álbum da copa 2022 e seu enorme sucesso</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">23/11/2022 - 15:41</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/feiradeciencias.jpg" alt="Feira de ciências do Senac" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Noticia_feira-experimental-de-ciencias-da-natureza-e-tecnologias-do-senac-distrito-criativo.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Feira Experimental de Ciências da Natureza e Tecnologias do Senac Distrito Criativo</h5>
+                                    <b class="float-left mt-2" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-2 mr-4 mr-lg-0">23/11/2022 - 15:07</b>
                                 </a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3 bg-transparent border-bottom">
+                <div class="card mb-3 bg-transparent border-bottom border-top-0 border-left-0 border-right-0">
                     <div class="row no-gutters">
                         <div class="col-3 col-lg-2">
-                            <img src="contents/album2022.jpg" alt="album2022" class="w-60" style="height: 120px;">
+                            <img src="./contents/feiraTecnico.jpg" alt="Feira técnica do Senac" class="editoriaIMG">
                         </div>
                         <div class="col-9 col-lg-10">
                             <div class="card-body ml-4 mt-1">
-                                <a href="" class="text-light">
-                                    <h5 class="card-title font-weight-bold h5-outras">ÁLBUM DA COPA DE 2022 E SEU ENORME SUCESSO</h5>
-                                    <p class="card-text p-outras">O novo álbum da copa de 2022 virou febre entre jovens, adultos e colecionadores do mundo todo com várias novas novidades.</p>
+                                <a href="./Noticia_feira-tecnica-do-senac-saiba-tudo.php" class="text-light">
+                                    <h5 class="card-title font-weight-bold h5-outras">Feira técnica do Senac - saiba tudo</h5>
+                                    <b class="float-left mt-3" style="color: #FF0D70;">NOTÍCIA</b>
+                                    <b class="text-muted float-right mt-3 mr-4 mr-lg-0">23/11/2022 - 14:46</b>
                                 </a>
                             </div>
                         </div>
